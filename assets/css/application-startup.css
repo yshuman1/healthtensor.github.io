@@ -20,6 +20,34 @@
   }
 }
 
+/* D3 bar chart block */
+text {
+    font-family: "Work sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 1.4em;
+    fill: #6c6f73;
+}
+
+.bar {
+    fill: steelblue;
+    stroke: #6c6f73;
+    stroke-width: 1px;
+}
+
+.bar:hover {
+    fill: brown;
+}
+
+.axis--x > path {
+    display: none;
+}
+
+.axis--y > path {
+    stroke: #6c6f73;
+}
+
+.axis > g.tick > line {
+    stroke: #6c6f73;
+}
 
 /* iphone block */
 .app-iphone-block {
