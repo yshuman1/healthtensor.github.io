@@ -147,11 +147,14 @@
 <div class="block block-bordered-lg text-center">
   <div class="container-fluid">
     <p class="lead mb-4">
-      TODO: Sign up to get more information:
+      Would you like to be kept updated?
     </p>
-    <form class="form-inline d-flex justify-content-center">
-      <input class="form-control mb-3" placeholder="Email Address">
-      <button class="btn btn-primary mb-3">Get started</button>
+    <form class="form-inline d-flex justify-content-center"
+          action="https://formspree.io/thomas@healthtensor.com"
+          method="POST">
+      <input class="form-control mb-3" placeholder="Email Address" name="_replyto">
+      <input class="form-control mb-3 mx-1" placeholder="Name (optional)" name="name">
+      <button class="btn btn-primary mb-3">Signup</button>
     </form>
   </div>
 </div>
