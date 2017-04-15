@@ -3,14 +3,18 @@
  **/
 
 (function() {
-  function parsePxStr(pxString) {
+    function parsePxStr(pxString, otherwise) {
     if (pxString.indexOf('px') != pxString.length - 2) {
-      throw 'px substring in unexpected location';
+      if (otherwise) {
+        return otherwise;
+      } else {
+        throw 'px substring in unexpected location';
+      }
     }
     return Math.floor(Number(pxString.slice(0, pxString.length - 2)));
   }
 
-  var svg = d3.select("svg"),
+  var svg = d3.select("#docbar"),
       margin = {top: 20, right: 20, bottom: 30, left: 40},
       data = [
         {label: 'Patient time', hours: 1},
@@ -19,7 +23,7 @@
 
 
   function redraw() {
-    var width = parsePxStr(svg.style("width")) - margin.left - margin.right,
+    var width = parsePxStr(svg.style("width"), 480) - margin.left - margin.right,
         height = +parsePxStr(svg.style("height")) - margin.top - margin.bottom,
         x = d3.scaleBand().rangeRound([0, width]).padding(0.1),
         y = d3.scaleLinear().rangeRound([height, 0]);

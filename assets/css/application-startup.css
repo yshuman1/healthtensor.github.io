@@ -1,3 +1,11 @@
+.stage {
+    overflow-x: hidden;
+}
+
+.text-stroke {
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
 /* navbar */
 .app-navbar {
   font-weight: 500;
@@ -47,6 +55,67 @@ text {
 
 .axis > g.tick > line {
     stroke: #6c6f73;
+}
+
+/* icdtree block */
+
+.pointer-events-none {
+    pointer-events: none;
+}
+
+.pointer-events-auto {
+    pointer-events: auto;
+}
+
+#icdtree-block {
+    position: absolute;
+    top: 0;
+    left: 20%;
+}
+
+.rotate {
+    animation-name: spin;
+    animation-duration: 300000ms;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+.pause-rotate {
+    animation-play-state: paused;
+}
+
+@keyframes spin {
+    from {
+        transform:rotate(0deg);
+    }
+    to {
+        transform:rotate(360deg);
+    }
+}
+
+#icdtree-info {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    width: 50%;
+
+}
+.node text {
+    font: 10px sans-serif;
+}
+
+.node--internal circle {
+    fill: #555;
+}
+
+.node--internal text {
+    text-shadow: 0 1px 0 #fff, 0 -1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff;
+}
+
+.link {
+    fill: none;
+    stroke-opacity: 0.4;
+    stroke-width: 1.5px;
 }
 
 /* iphone block */
