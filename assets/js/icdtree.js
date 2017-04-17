@@ -3,6 +3,8 @@
  **/
 
 (function() {
+  amplitude.getInstance().logEvent('icdtree.draw');
+
   function project(x, y) {
     var angle = (x - 90) / 180 * Math.PI, radius = y;
     return [radius * Math.cos(angle), radius * Math.sin(angle)];
