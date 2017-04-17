@@ -143,6 +143,7 @@ text {
   line-height: 1.55;
   margin-bottom: 30px;
   border-radius: .3rem;
+  overflow-x: hidden;
 }
 .app-code span {
   color: #8496A5;
