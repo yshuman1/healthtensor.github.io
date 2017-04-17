@@ -169,16 +169,14 @@ text {
 
 
 /* brand ribbon block */
-.app-ribbon {
-  background: #2595FF;
-}
 .app-ribbon .container {
   padding-left: 0;
   padding-right: 0;
-  margin-bottom: -30px;
+  margin-top: 1em;
+  margin-bottom: 1em;
 }
 .app-ribbon img {
-  margin: 0 10px 30px;
+    margin: 0 40px 40px;
 }
 
 
