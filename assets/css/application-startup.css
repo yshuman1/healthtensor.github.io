@@ -98,7 +98,7 @@ text {
     right: 0;
     bottom: 0;
     width: 50%;
-
+    max-width: 32em;
 }
 .node text {
     font: 10px sans-serif;
