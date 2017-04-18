@@ -18,6 +18,7 @@
     <link href="assets/css/application-startup.css" rel="stylesheet">
     <link href="assets/css/font-awesome.min.css" rel="stylesheet">
     <link rel="shortcut icon" href="favicon.ico" >
+    <script type="text/javascript" src="assets/js/jquery.min.js"></script>
     <script type="text/javascript">
       (function(e,t){var n=e.amplitude||{_q:[],_iq:{}};var r=t.createElement("script");r.type="text/javascript";
       r.async=true;r.src="https://d24n15hnbwhuhn.cloudfront.net/libs/amplitude-3.0.1-min.gz.js";
@@ -37,6 +38,16 @@
   </head>
 
 <body>
+
+<script>
+  $(document).on('click', 'a', function(event){
+    event.preventDefault();
+
+    $('html, body').animate({
+        scrollTop: $( $.attr(this, 'href') ).offset().top
+    }, 500);
+  });
+</script>
 
 <div class="stage-shelf stage-shelf-right hidden" id="sidebar">
   <ul class="nav nav-bordered nav-stacked flex-column">
