@@ -118,6 +118,10 @@ text {
     stroke-width: 1.5px;
 }
 
+.avatar {
+    margin-bottom: 1em;
+}
+
 /* iphone block */
 .app-iphone-block {
   padding-bottom: 60px;
