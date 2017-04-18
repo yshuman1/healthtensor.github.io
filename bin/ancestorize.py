@@ -43,7 +43,7 @@ def group(data):
     return data.groupby(data['code'].apply(lambda x: 'root' if x == 'root' else x[0]))
 
 def get_all_data(data):
-    data = group(data).head(50)
+    data = group(data).head(10)
     data = data.assign(parent=get_parents(data))
     return data.append(get_missing(data))
 

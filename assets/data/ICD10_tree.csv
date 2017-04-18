@@ -9,46 +9,6 @@ A0103,Typhoid pneumonia,A010
 A0104,Typhoid arthritis,A010
 A0105,Typhoid osteomyelitis,A010
 A0109,Typhoid fever with other complications,A010
-A011,Paratyphoid fever A,A01
-A012,Paratyphoid fever B,A01
-A013,Paratyphoid fever C,A01
-A014,"Paratyphoid fever, unspecified",A01
-A020,Salmonella enteritis,A02
-A021,Salmonella sepsis,A02
-A0220,"Localized salmonella infection, unspecified",A022
-A0221,Salmonella meningitis,A022
-A0222,Salmonella pneumonia,A022
-A0223,Salmonella arthritis,A022
-A0224,Salmonella osteomyelitis,A022
-A0225,Salmonella pyelonephritis,A022
-A0229,Salmonella with other localized infection,A022
-A028,Other specified salmonella infections,A02
-A029,"Salmonella infection, unspecified",A02
-A030,Shigellosis due to Shigella dysenteriae,A03
-A031,Shigellosis due to Shigella flexneri,A03
-A032,Shigellosis due to Shigella boydii,A03
-A033,Shigellosis due to Shigella sonnei,A03
-A038,Other shigellosis,A03
-A039,"Shigellosis, unspecified",A03
-A040,Enteropathogenic Escherichia coli infection,A04
-A041,Enterotoxigenic Escherichia coli infection,A04
-A042,Enteroinvasive Escherichia coli infection,A04
-A043,Enterohemorrhagic Escherichia coli infection,A04
-A044,Other intestinal Escherichia coli infections,A04
-A045,Campylobacter enteritis,A04
-A046,Enteritis due to Yersinia enterocolitica,A04
-A047,Enterocolitis due to Clostridium difficile,A04
-A048,Other specified bacterial intestinal infections,A04
-A049,"Bacterial intestinal infection, unspecified",A04
-A050,Foodborne staphylococcal intoxication,A05
-A051,Botulism food poisoning,A05
-A052,Foodborne Clostridium perfringens [Clostridium welchii] intoxication,A05
-A053,Foodborne Vibrio parahaemolyticus intoxication,A05
-A054,Foodborne Bacillus cereus intoxication,A05
-A055,Foodborne Vibrio vulnificus intoxication,A05
-A058,Other specified bacterial foodborne intoxications,A05
-A059,"Bacterial foodborne intoxication, unspecified",A05
-A060,Acute amebic dysentery,A06
 B000,Eczema herpeticum,B00
 B001,Herpesviral vesicular dermatitis,B00
 B002,Herpesviral gingivostomatitis and pharyngotonsillitis,B00
@@ -59,46 +19,6 @@ B0051,Herpesviral iridocyclitis,B005
 B0052,Herpesviral keratitis,B005
 B0053,Herpesviral conjunctivitis,B005
 B0059,Other herpesviral disease of eye,B005
-B007,Disseminated herpesviral disease,B00
-B0081,Herpesviral hepatitis,B008
-B0082,Herpes simplex myelitis,B008
-B0089,Other herpesviral infection,B008
-B009,"Herpesviral infection, unspecified",B00
-B010,Varicella meningitis,B01
-B0111,Varicella encephalitis and encephalomyelitis,B011
-B0112,Varicella myelitis,B011
-B012,Varicella pneumonia,B01
-B0181,Varicella keratitis,B018
-B0189,Other varicella complications,B018
-B019,Varicella without complication,B01
-B020,Zoster encephalitis,B02
-B021,Zoster meningitis,B02
-B0221,Postherpetic geniculate ganglionitis,B022
-B0222,Postherpetic trigeminal neuralgia,B022
-B0223,Postherpetic polyneuropathy,B022
-B0224,Postherpetic myelitis,B022
-B0229,Other postherpetic nervous system involvement,B022
-B0230,"Zoster ocular disease, unspecified",B023
-B0231,Zoster conjunctivitis,B023
-B0232,Zoster iridocyclitis,B023
-B0233,Zoster keratitis,B023
-B0234,Zoster scleritis,B023
-B0239,Other herpes zoster eye disease,B023
-B027,Disseminated zoster,B02
-B028,Zoster with other complications,B02
-B029,Zoster without complications,B02
-B03,Smallpox,B
-B04,Monkeypox,B
-B050,Measles complicated by encephalitis,B05
-B051,Measles complicated by meningitis,B05
-B052,Measles complicated by pneumonia,B05
-B053,Measles complicated by otitis media,B05
-B054,Measles with intestinal complications,B05
-B0581,Measles keratitis and keratoconjunctivitis,B058
-B0589,Other measles complications,B058
-B059,Measles without complication,B05
-B0600,"Rubella with neurological complication,unspecified",B060
-B0601,Rubella encephalitis,B060
 C000,Malignant neoplasm of external upper lip,C00
 C001,Malignant neoplasm of external lower lip,C00
 C002,"Malignant neoplasm of external lip, unspecified",C00
@@ -109,46 +29,6 @@ C006,"Malignant neoplasm of commissure of lip, unspecified",C00
 C008,Malignant neoplasm of overlapping sites of lip,C00
 C009,"Malignant neoplasm of lip, unspecified",C00
 C01,Malignant neoplasm of base of tongue,C
-C020,Malignant neoplasm of dorsal surface of tongue,C02
-C021,Malignant neoplasm of border of tongue,C02
-C022,Malignant neoplasm of ventral surface of tongue,C02
-C023,"Malignant neoplasm of anterior two-thirds of tongue, part unspecified",C02
-C024,Malignant neoplasm of lingual tonsil,C02
-C028,Malignant neoplasm of overlapping sites of tongue,C02
-C029,"Malignant neoplasm of tongue, unspecified",C02
-C030,Malignant neoplasm of upper gum,C03
-C031,Malignant neoplasm of lower gum,C03
-C039,"Malignant neoplasm of gum, unspecified",C03
-C040,Malignant neoplasm of anterior floor of mouth,C04
-C041,Malignant neoplasm of lateral floor of mouth,C04
-C048,Malignant neoplasm of overlapping sites of floor of mouth,C04
-C049,"Malignant neoplasm of floor of mouth, unspecified",C04
-C050,Malignant neoplasm of hard palate,C05
-C051,Malignant neoplasm of soft palate,C05
-C052,Malignant neoplasm of uvula,C05
-C058,Malignant neoplasm of overlapping sites of palate,C05
-C059,"Malignant neoplasm of palate, unspecified",C05
-C060,Malignant neoplasm of cheek mucosa,C06
-C061,Malignant neoplasm of vestibule of mouth,C06
-C062,Malignant neoplasm of retromolar area,C06
-C0680,Malignant neoplasm of overlapping sites of unspecified parts of mouth,C068
-C0689,Malignant neoplasm of overlapping sites of other parts of mouth,C068
-C069,"Malignant neoplasm of mouth, unspecified",C06
-C07,Malignant neoplasm of parotid gland,C
-C080,Malignant neoplasm of submandibular gland,C08
-C081,Malignant neoplasm of sublingual gland,C08
-C089,"Malignant neoplasm of major salivary gland, unspecified",C08
-C090,Malignant neoplasm of tonsillar fossa,C09
-C091,Malignant neoplasm of tonsillar pillar (anterior) (posterior),C09
-C098,Malignant neoplasm of overlapping sites of tonsil,C09
-C099,"Malignant neoplasm of tonsil, unspecified",C09
-C100,Malignant neoplasm of vallecula,C10
-C101,Malignant neoplasm of anterior surface of epiglottis,C10
-C102,Malignant neoplasm of lateral wall of oropharynx,C10
-C103,Malignant neoplasm of posterior wall of oropharynx,C10
-C104,Malignant neoplasm of branchial cleft,C10
-C108,Malignant neoplasm of overlapping sites of oropharynx,C10
-C109,"Malignant neoplasm of oropharynx, unspecified",C10
 D0000,"Carcinoma in situ of oral cavity, unspecified site",D000
 D0001,Carcinoma in situ of labial mucosa and vermilion border,D000
 D0002,Carcinoma in situ of buccal mucosa,D000
@@ -159,46 +39,6 @@ D0006,Carcinoma in situ of floor of mouth,D000
 D0007,Carcinoma in situ of tongue,D000
 D0008,Carcinoma in situ of pharynx,D000
 D001,Carcinoma in situ of esophagus,D00
-D002,Carcinoma in situ of stomach,D00
-D010,Carcinoma in situ of colon,D01
-D011,Carcinoma in situ of rectosigmoid junction,D01
-D012,Carcinoma in situ of rectum,D01
-D013,Carcinoma in situ of anus and anal canal,D01
-D0140,Carcinoma in situ of unspecified part of intestine,D014
-D0149,Carcinoma in situ of other parts of intestine,D014
-D015,"Carcinoma in situ of liver, gallbladder and bile ducts",D01
-D017,Carcinoma in situ of other specified digestive organs,D01
-D019,"Carcinoma in situ of digestive organ, unspecified",D01
-D020,Carcinoma in situ of larynx,D02
-D021,Carcinoma in situ of trachea,D02
-D0220,"Carcinoma in situ of bronchus and lung, unspecified side",D022
-D0221,Carcinoma in situ of right bronchus and lung,D022
-D0222,Carcinoma in situ of left bronchus and lung,D022
-D023,Carcinoma in situ of other parts of respiratory system,D02
-D024,"Carcinoma in situ of respiratory system, unspecified",D02
-D030,Melanoma in situ of lip,D03
-D0310,"Melanoma in situ of eyelid, including canthus, unspecified side",D031
-D0311,"Melanoma in situ of right eyelid, including canthus",D031
-D0312,"Melanoma in situ of left eyelid, including canthus",D031
-D0320,"Melanoma in situ of ear and external auricular canal, unspecified side",D032
-D0321,Melanoma in situ of right ear and external auricular canal,D032
-D0322,Melanoma in situ of left ear and external auricular canal,D032
-D0330,Melanoma in situ of unspecified part of face,D033
-D0339,Melanoma in situ of other parts of face,D033
-D034,Melanoma in situ of scalp and neck,D03
-D0351,Melanoma in situ of anal skin,D035
-D0352,Melanoma in situ of breast (skin) (soft tissue),D035
-D0359,Melanoma in situ of other part of trunk,D035
-D0360,"Melanoma in situ of upper limb, including shoulder, unspecified side",D036
-D0361,"Melanoma in situ of right upper limb, including shoulder",D036
-D0362,"Melanoma in situ of left upper limb, including shoulder",D036
-D0370,"Melanoma in situ of lower limb, including hip, unspecified side",D037
-D0371,"Melanoma in situ of right lower limb, including hip",D037
-D0372,"Melanoma in situ of left lower limb, including hip",D037
-D038,Melanoma in situ of other sites,D03
-D039,"Melanoma in situ, unspecified",D03
-D040,Carcinoma in situ of skin of lip,D04
-D0410,"Carcinoma in situ of skin of eyelid, including canthus, unspecified side",D041
 E000,"Congenital iodine-deficiency syndrome, neurological type",E00
 E001,"Congenital iodine-deficiency syndrome, myxedematous type",E00
 E002,"Congenital iodine-deficiency syndrome, mixed type",E00
@@ -209,46 +49,6 @@ E012,"Iodine-deficiency related (endemic) goiter, unspecified",E01
 E018,Other iodine-deficiency related thyroid disorders and allied conditions,E01
 E02,Subclinical iodine-deficiency hypothyroidism,E
 E030,Congenital hypothyroidism with diffuse goiter,E03
-E031,Congenital hypothyroidism without goiter,E03
-E032,Hypothyroidism due to medicaments and other exogenous substances,E03
-E033,Postinfectious hypothyroidism,E03
-E034,Atrophy of thyroid (acquired),E03
-E035,Myxedema coma,E03
-E038,Other specified hypothyroidism,E03
-E039,"Hypothyroidism, unspecified",E03
-E040,Nontoxic diffuse goiter,E04
-E041,Nontoxic single thyroid nodule,E04
-E042,Nontoxic multinodular goiter,E04
-E048,Other specified nontoxic goiter,E04
-E049,"Nontoxic goiter, unspecified",E04
-E0500,Thyrotoxicosis with diffuse goiter without thyrotoxic crisis or storm,E050
-E0501,Thyrotoxicosis with diffuse goiter with thyrotoxic crisis or storm,E050
-E0510,Thyrotoxicosis with toxic single thyroid nodule without thyrotoxic crisis or storm,E051
-E0511,Thyrotoxicosis with toxic single thyroid nodule with thyrotoxic crisis or storm,E051
-E0520,Thyrotoxicosis with toxic multinodular goiter without thyrotoxic crisis or storm,E052
-E0521,Thyrotoxicosis with toxic multinodular goiter with thyrotoxic crisis or storm,E052
-E0530,Thyrotoxicosis from ectopic thyroid tissue without thyrotoxic crisis or storm,E053
-E0531,Thyrotoxicosis from ectopic thyroid tissue with thyrotoxic crisis or storm,E053
-E0540,Thyrotoxicosis factitia without thyrotoxic crisis or storm,E054
-E0541,Thyrotoxicosis factitia with thyrotoxic crisis or storm,E054
-E0580,Other thyrotoxicosis without thyrotoxic crisis or storm,E058
-E0581,Other thyrotoxicosis with thyrotoxic crisis or storm,E058
-E0590,"Thyrotoxicosis, unspecified without thyrotoxic crisis or storm",E059
-E0591,"Thyrotoxicosis, unspecified with thyrotoxic crisis or storm",E059
-E060,Acute thyroiditis,E06
-E061,Subacute thyroiditis,E06
-E062,Chronic thyroiditis with transient thyrotoxicosis,E06
-E063,Autoimmune thyroiditis,E06
-E064,Drug-induced thyroiditis,E06
-E065,Other chronic thyroiditis,E06
-E069,"Thyroiditis, unspecified",E06
-E070,Hypersecretion of calcitonin,E07
-E071,Dyshormogenetic goiter,E07
-E0781,Sick-euthyroid syndrome,E078
-E0789,Other specified disorders of thyroid,E078
-E079,"Disorder of thyroid, unspecified",E07
-E0800,Diabetes mellitus due to underlying condition with hyperosmolarity without nonketotic hyperglycemic-hyperosmolar coma (NKHHC),E080
-E0801,Diabetes mellitus due to underlying condition with hyperosmolarity with coma,E080
 F0150,Vascular dementia without behavioral disturbance,F015
 F0151,Vascular dementia with behavioral disturbance,F015
 F0280,"Dementia in other diseases classified elsewhere, without behavioral disturbance",F028
@@ -259,46 +59,6 @@ F05,Delirium due to known physiological condition,F
 F060,Psychotic disorder with hallucinations due to known physiological condition,F06
 F061,Catatonic disorder due to known physiological condition,F06
 F062,Psychotic disorder with delusions due to known physiological condition,F06
-F0630,"Mood disorder due to known physiological condition, unspecified",F063
-F0631,Mood disorder due to known physiological condition with depressive features,F063
-F0632,Mood disorder due to known physiological condition with major depressive-like episode,F063
-F0633,Mood disorder due to known physiological condition with manic features,F063
-F0634,Mood disorder due to known physiological condition with mixed features,F063
-F064,Anxiety disorder due to known physiological condition,F06
-F068,Other specified mental disorders due to known physiological condition,F06
-F069,Unspecified mental disorder due to known physiological condition,F06
-F070,Personality change due to known physiological condition,F07
-F0781,Postconcussional syndrome,F078
-F0789,Other personality and behavioral disorders due to known physiological condition,F078
-F079,Unspecified personality and behavioral disorder due to known physiological condition,F07
-F09,Unspecified mental disorder due to known physiological condition,F
-F1010,"Alcohol abuse, uncomplicated",F101
-F10120,"Alcohol abuse with intoxication, uncomplicated",F1012
-F10121,Alcohol abuse with intoxication delirium,F1012
-F10129,"Alcohol abuse with intoxication, unspecified",F1012
-F1014,Alcohol abuse with alcohol-induced mood disorder,F101
-F10150,Alcohol abuse with alcohol-induced psychotic disorder with delusions,F1015
-F10151,Alcohol abuse with alcohol-induced psychotic disorder with hallucinations,F1015
-F10159,"Alcohol abuse with alcohol-induced psychotic disorder, unspecified",F1015
-F10180,Alcohol abuse with alcohol-induced anxiety disorder,F1018
-F10181,Alcohol abuse with alcohol-induced sexual dysfunction,F1018
-F10182,Alcohol abuse with alcohol-induced sleep disorder,F1018
-F10188,Alcohol abuse with other alcohol-induced disorder,F1018
-F1019,Alcohol abuse with unspecified alcohol-induced disorder,F101
-F1020,"Alcohol dependence, uncomplicated",F102
-F1021,"Alcohol dependence, in remission",F102
-F10220,"Alcohol dependence with intoxication, uncomplicated",F1022
-F10221,Alcohol dependence with intoxication delirium,F1022
-F10229,"Alcohol dependence with intoxication, unspecified",F1022
-F10230,"Alcohol dependence with withdrawal, uncomplicated",F1023
-F10231,Alcohol dependence with withdrawal delirium,F1023
-F10232,Alcohol dependence with withdrawal with perceptual disturbance,F1023
-F10239,"Alcohol dependence with withdrawal, unspecified",F1023
-F1024,Alcohol dependence with alcohol-induced mood disorder,F102
-F10250,Alcohol dependence with alcohol-induced psychotic disorder with delusions,F1025
-F10251,Alcohol dependence with alcohol-induced psychotic disorder with hallucinations,F1025
-F10259,"Alcohol dependence with alcohol-induced psychotic disorder, unspecified",F1025
-F1026,Alcohol dependence with alcohol-induced persisting amnestic disorder,F102
 G000,Hemophilus meningitis,G00
 G001,Pneumococcal meningitis,G00
 G002,Streptococcal meningitis,G00
@@ -309,46 +69,6 @@ G01,Meningitis in bacterial diseases classified elsewhere,G
 G02,Meningitis in other infectious and parasitic diseases classified elsewhere,G
 G030,Nonpyogenic meningitis,G03
 G031,Chronic meningitis,G03
-G032,Benign recurrent meningitis [Mollaret],G03
-G038,Meningitis due to other specified causes,G03
-G039,"Meningitis, unspecified",G03
-G0400,Postinfectious acute disseminated encephalitis and encephalomyelitis (postinfectious ADEM),G040
-G0401,"Postimmunization acute disseminated encephalitis, myelitis and encephalomyelitis",G040
-G041,Tropical spastic paraplegia,G04
-G042,"Bacterial meningoencephalitis and meningomyelitis, not elsewhere classified",G04
-G0430,Postinfectious acute necrotizing hemorrhagic encephalopathy,G043
-G0431,Postimmunization acute necrotizing hemorrhagic encephalopathy,G043
-G0481,Other encephalitis and encephalomyelitis,G048
-G0489,Other myelitis,G048
-G0490,"Encephalitis and encephalomyelitis, unspecified",G049
-G0491,"Myelitis, unspecified",G049
-G053,Encephalitis and encephalomyelitis in diseases classified elsewhere,G05
-G054,Myelitis in diseases classified elsewhere,G05
-G060,Intracranial abscess and granuloma,G06
-G061,Intraspinal abscess and granuloma,G06
-G062,"Extradural and subdural abscess, unspecified",G06
-G07,Intracranial and intraspinal abscess and granuloma in diseases classified elsewhere,G
-G08,Intracranial and intraspinal phlebitis and thrombophlebitis,G
-G09,Sequelae of inflammatory diseases of central nervous system,G
-G10,Huntington's disease,G
-G110,Congenital nonprogressive ataxia,G11
-G111,Early-onset cerebellar ataxia,G11
-G112,Late-onset cerebellar ataxia,G11
-G113,Cerebellar ataxia with defective DNA repair,G11
-G114,Hereditary spastic paraplegia,G11
-G118,Other hereditary ataxias,G11
-G119,"Hereditary ataxia, unspecified",G11
-G120,"Infantile spinal muscular atrophy, type I [Werdnig-Hoffman]",G12
-G121,Other inherited spinal muscular atrophy,G12
-G1220,"Motor neuron disease, unspecified",G122
-G1221,Amyotrophic lateral sclerosis,G122
-G1222,Progressive bulbar palsy,G122
-G1229,Other motor neuron disease,G122
-G128,Other spinal muscular atrophies and related syndromes,G12
-G129,"Spinal muscular atrophy, unspecified",G12
-G130,Paraneoplastic neuromyopathy and neuropathy,G13
-G131,Other systemic atrophy primarily affecting central nervous system in neoplastic disease,G13
-G138,Systemic atrophy primarily affecting central nervous system in other diseases classified elsewhere,G13
 H00011,Hordeolum externum right upper eyelid,H0001
 H00012,Hordeolum externum right lower eyelid,H0001
 H00013,"Hordeolum externum right eye, unspecified eyelid",H0001
@@ -359,46 +79,6 @@ H00019,"Hordeolum externum unspecified eye, unspecified eyelid",H0001
 H00021,Hordeolum internum right upper eyelid,H0002
 H00022,Hordeolum internum right lower eyelid,H0002
 H00023,"Hordeolum internum right eye, unspecified eyelid",H0002
-H00024,Hordeolum internum left upper eyelid,H0002
-H00025,Hordeolum internum left lower eyelid,H0002
-H00026,"Hordeolum internum left eye, unspecified eyelid",H0002
-H00029,"Hordeolum internum unspecified eye, unspecified eyelid",H0002
-H00031,Abscess of right upper eyelid,H0003
-H00032,Abscess of right lower eyelid,H0003
-H00033,"Abscess of eyelid right eye, unspecified eyelid",H0003
-H00034,Abscess of left upper eyelid,H0003
-H00035,Abscess of left lower eyelid,H0003
-H00036,"Abscess of eyelid left eye, unspecified eyelid",H0003
-H00039,"Abscess of eyelid unspecified eye, unspecified eyelid",H0003
-H0011,Chalazion right upper eyelid,H001
-H0012,Chalazion right lower eyelid,H001
-H0013,"Chalazion right eye, unspecified eyelid",H001
-H0014,Chalazion left upper eyelid,H001
-H0015,Chalazion left lower eyelid,H001
-H0016,"Chalazion left eye, unspecified eyelid",H001
-H0019,"Chalazion unspecified eye, unspecified eyelid",H001
-H01001,Unspecified blepharitis right upper eyelid,H0100
-H01002,Unspecified blepharitis right lower eyelid,H0100
-H01003,"Unspecified blepharitis right eye, unspecified eyelid",H0100
-H01004,Unspecified blepharitis left upper eyelid,H0100
-H01005,Unspecified blepharitis left lower eyelid,H0100
-H01006,"Unspecified blepharitis left eye, unspecified eyelid",H0100
-H01009,"Unspecified blepharitis unspecified eye, unspecified eyelid",H0100
-H01011,Ulcerative blepharitis right upper eyelid,H0101
-H01012,Ulcerative blepharitis right lower eyelid,H0101
-H01013,"Ulcerative blepharitis right eye, unspecified eyelid",H0101
-H01014,Ulcerative blepharitis left upper eyelid,H0101
-H01015,Ulcerative blepharitis left lower eyelid,H0101
-H01016,"Ulcerative blepharitis left eye, unspecified eyelid",H0101
-H01019,"Ulcerative blepharitis unspecified eye, unspecified eyelid",H0101
-H01021,Squamous blepharitis right upper eyelid,H0102
-H01022,Squamous blepharitis right lower eyelid,H0102
-H01023,"Squamous blepharitis right eye, unspecified eyelid",H0102
-H01024,Squamous blepharitis left upper eyelid,H0102
-H01025,Squamous blepharitis left lower eyelid,H0102
-H01026,"Squamous blepharitis left eye, unspecified eyelid",H0102
-H01029,"Squamous blepharitis unspecified eye, unspecified eyelid",H0102
-H01111,Allergic dermatitis of right upper eyelid,H0111
 I00,Rheumatic fever without heart involvement,I
 I010,Acute rheumatic pericarditis,I01
 I011,Acute rheumatic endocarditis,I01
@@ -409,46 +89,6 @@ I020,Rheumatic chorea with heart involvement,I02
 I029,Rheumatic chorea without heart involvement,I02
 I050,Rheumatic mitral stenosis,I05
 I051,Rheumatic mitral insufficiency,I05
-I052,Rheumatic mitral stenosis with insufficiency,I05
-I058,Other rheumatic mitral valve diseases,I05
-I059,"Rheumatic mitral valve disease, unspecified",I05
-I060,Rheumatic aortic stenosis,I06
-I061,Rheumatic aortic insufficiency,I06
-I062,Rheumatic aortic stenosis with insufficiency,I06
-I068,Other rheumatic aortic valve diseases,I06
-I069,"Rheumatic aortic valve disease, unspecified",I06
-I070,Rheumatic tricuspid stenosis,I07
-I071,Rheumatic tricuspid insufficiency,I07
-I072,Rheumatic tricuspid stenosis and insufficiency,I07
-I078,Other rheumatic tricuspid valve diseases,I07
-I079,"Rheumatic tricuspid valve disease, unspecified",I07
-I080,Rheumatic disorders of both mitral and aortic valves,I08
-I081,Rheumatic disorders of both mitral and tricuspid valves,I08
-I082,Rheumatic disorders of both aortic and tricuspid valves,I08
-I083,"Combined rheumatic disorders of mitral, aortic and tricuspid valves",I08
-I088,Other rheumatic multiple valve diseases,I08
-I089,"Rheumatic multiple valve disease, unspecified",I08
-I090,Rheumatic myocarditis,I09
-I091,"Rheumatic diseases of endocardium, valve unspecified",I09
-I092,Chronic rheumatic pericarditis,I09
-I0981,Rheumatic heart failure,I098
-I0989,Other specified rheumatic heart diseases,I098
-I099,"Rheumatic heart disease, unspecified",I09
-I10,Essential (primary) hypertension,I
-I110,Hypertensive heart disease with heart failure,I11
-I119,Hypertensive heart disease without heart failure,I11
-I120,Hypertensive chronic kidney disease with stage V chronic kidney disease or end stage renal disease,I12
-I129,"Hypertensive chronic kidney disease with stage I through stage IV chronic kidney disease, or unspecified chronic kidney disease",I12
-I130,"Hypertensive heart and chronic kidney disease with heart failure and stage I through stage IV chronic kidney disease, or unspecified chronic kidney disease",I13
-I1310,"Hypertensive heart and chronic kidney disease without heart failure, with stage I through stage IV chronic kidney disease, or unspecified chronic kidney disease",I131
-I1311,"Hypertensive heart and chronic kidney disease without heart failure, with stage V chronic kidney disease, or end stage renal disease",I131
-I132,"Hypertensive heart and chronic kidney disease with heart failure and with stage V chronic kidney disease, or end stage renal disease",I13
-I150,Renovascular hypertension,I15
-I151,Hypertension secondary to other renal disorders,I15
-I152,Hypertension secondary to endocrine disorders,I15
-I158,Other secondary hypertension,I15
-I159,"Secondary hypertension, unspecified",I15
-I200,Unstable angina,I20
 J00,Acute nasopharyngitis [common cold],J
 J0100,"Acute maxillary sinusitis, unspecified",J010
 J0101,Acute recurrent maxillary sinusitis,J010
@@ -459,46 +99,6 @@ J0121,Acute recurrent ethmoidal sinusitis,J012
 J0130,"Acute sphenoidal sinusitis, unspecified",J013
 J0131,Acute recurrent sphenoidal sinusitis,J013
 J0140,"Acute pansinusitis, unspecified",J014
-J0141,Acute recurrent pansinusitis,J014
-J0180,Other acute sinusitis,J018
-J0181,Other acute recurrent sinusitis,J018
-J0190,"Acute sinusitis, unspecified",J019
-J0191,"Acute recurrent sinusitis, unspecified",J019
-J020,Streptococcal pharyngitis,J02
-J028,Acute pharyngitis due to other specified organisms,J02
-J029,"Acute pharyngitis, unspecified",J02
-J0300,"Acute streptococcal tonsillitis, unspecified",J030
-J0301,Acute recurrent streptococcal tonsillitis,J030
-J0380,Acute tonsillitis due to other specified organisms,J038
-J0381,Acute recurrent tonsillitis due to other specified organisms,J038
-J0390,"Acute tonsillitis, unspecified",J039
-J0391,"Acute recurrent tonsillitis, unspecified",J039
-J040,Acute laryngitis,J04
-J0410,Acute tracheitis without obstruction,J041
-J0411,Acute tracheitis with obstruction,J041
-J042,Acute laryngotracheitis,J04
-J0430,"Supraglottitis, unspecified, without obstruction",J043
-J0431,"Supraglottitis, unspecified, with obstruction",J043
-J050,Acute obstructive laryngitis [croup],J05
-J0510,Acute epiglottitis without obstruction,J051
-J0511,Acute epiglottitis with obstruction,J051
-J060,Acute laryngopharyngitis,J06
-J069,"Acute upper respiratory infection, unspecified",J06
-J09,Influenza due to avian influenza virus,J
-J101,Influenza due to other influenza virus with respiratory manifestations,J10
-J1081,Influenzal gastroenteritis,J108
-J1089,Influenza due to other influenza virus with other manifestations,J108
-J120,Adenoviral pneumonia,J12
-J121,Respiratory syncytial virus pneumonia,J12
-J122,Parainfluenza virus pneumonia,J12
-J123,Pneumonia due to SARS-associated coronavirus,J12
-J128,Other viral pneumonia,J12
-J129,"Viral pneumonia, unspecified",J12
-J13,Pneumonia due to Streptococcus pneumoniae,J
-J14,Pneumonia due to Hemophilus influenzae,J
-J150,Pneumonia due to Klebsiella pneumoniae,J15
-J151,Pneumonia due to Pseudomonas,J15
-J1520,"Pneumonia due to staphylococcus, unspecified",J152
 K000,Anodontia,K00
 K001,Supernumerary teeth,K00
 K002,Abnormalities of size and form of teeth,K00
@@ -509,46 +109,6 @@ K006,Disturbances in tooth eruption,K00
 K007,Teething syndrome,K00
 K008,Other disorders of tooth development,K00
 K009,"Disorder of tooth development, unspecified",K00
-K010,Embedded teeth,K01
-K011,Impacted teeth,K01
-K023,Arrested dental caries,K02
-K0251,Dental caries on pit and fissure surface limited to enamel,K025
-K0252,Dental caries on pit and fissure surface penetrating into dentin,K025
-K0253,Dental caries on pit and fissure surface penetrating into pulp,K025
-K0261,Dental caries on smooth surface limited to enamel,K026
-K0262,Dental caries on smooth surface penetrating into dentin,K026
-K0263,Dental caries on smooth surface penetrating into pulp,K026
-K027,Dental root caries,K02
-K029,"Dental caries, unspecified",K02
-K030,Excessive attrition of teeth,K03
-K031,Abrasion of teeth,K03
-K032,Erosion of teeth,K03
-K033,Pathological resorption of teeth,K03
-K034,Hypercementosis,K03
-K035,Ankylosis of teeth,K03
-K036,Deposits [accretions] on teeth,K03
-K037,Posteruptive color changes of dental hard tissues,K03
-K0381,Cracked tooth,K038
-K0389,Other specified diseases of hard tissues of teeth,K038
-K039,"Disease of hard tissues of teeth, unspecified",K03
-K040,Pulpitis,K04
-K041,Necrosis of pulp,K04
-K042,Pulp degeneration,K04
-K043,Abnormal hard tissue formation in pulp,K04
-K044,Acute apical periodontitis of pulpal origin,K04
-K045,Chronic apical periodontitis,K04
-K046,Periapical abscess with sinus,K04
-K047,Periapical abscess without sinus,K04
-K048,Radicular cyst,K04
-K0490,Unspecified diseases of pulp and periapical tissues,K049
-K0499,Other diseases of pulp and periapical tissues,K049
-K0500,"Acute gingivitis, plaque induced",K050
-K0501,"Acute gingivitis, non-plaque induced",K050
-K0510,"Chronic gingivitis, plaque induced",K051
-K0511,"Chronic gingivitis, non-plaque induced",K051
-K0520,"Aggressive periodontitis, unspecified",K052
-K0521,"Aggressive periodontitis, localized",K052
-K0522,"Aggressive periodontitis, generalized",K052
 L00,Staphylococcal scalded skin syndrome,L
 L0100,"Impetigo, unspecified",L010
 L0101,Non-bullous impetigo,L010
@@ -559,46 +119,6 @@ L011,Impetiginization of other dermatoses,L01
 L0201,Cutaneous abscess of face,L020
 L0202,Furuncle of face,L020
 L0203,Carbuncle of face,L020
-L0211,Cutaneous abscess of neck,L021
-L0212,Furuncle of neck,L021
-L0213,Carbuncle of neck,L021
-L02211,Cutaneous abscess of abdominal wall,L0221
-L02212,"Cutaneous abscess of back [any part, except buttock]",L0221
-L02213,Cutaneous abscess of chest wall,L0221
-L02214,Cutaneous abscess of groin,L0221
-L02215,Cutaneous abscess of perineum,L0221
-L02216,Cutaneous abscess of umbilicus,L0221
-L02219,"Cutaneous abscess of trunk, unspecified",L0221
-L02221,Furuncle of abdominal wall,L0222
-L02222,"Furuncle of back [any part, except buttock]",L0222
-L02223,Furuncle of chest wall,L0222
-L02224,Furuncle of groin,L0222
-L02225,Furuncle of perineum,L0222
-L02226,Furuncle of umbilicus,L0222
-L02229,"Furuncle of trunk, unspecified",L0222
-L02231,Carbuncle of abdominal wall,L0223
-L02232,"Carbuncle of back [any part, except buttock]",L0223
-L02233,Carbuncle of chest wall,L0223
-L02234,Carbuncle of groin,L0223
-L02235,Carbuncle of perineum,L0223
-L02236,Carbuncle of umbilicus,L0223
-L02239,"Carbuncle of trunk, unspecified",L0223
-L0231,Cutaneous abscess of buttock,L023
-L0232,Furuncle of buttock,L023
-L0233,Carbuncle of buttock,L023
-L02411,Cutaneous abscess of right axilla,L0241
-L02412,Cutaneous abscess of left axilla,L0241
-L02413,Cutaneous abscess of right upper limb,L0241
-L02414,Cutaneous abscess of left upper limb,L0241
-L02415,Cutaneous abscess of right lower limb,L0241
-L02416,Cutaneous abscess of left lower limb,L0241
-L02419,"Cutaneous abscess of limb, unspecified",L0241
-L02421,Furuncle of right axilla,L0242
-L02422,Furuncle of left axilla,L0242
-L02423,Furuncle of right upper limb,L0242
-L02424,Furuncle of left upper limb,L0242
-L02425,Furuncle of right lower limb,L0242
-L02426,Furuncle of left lower limb,L0242
 M0000,"Staphylococcal arthritis, unspecified joint",M000
 M00011,"Staphylococcal arthritis, right shoulder",M0001
 M00012,"Staphylococcal arthritis, left shoulder",M0001
@@ -609,46 +129,6 @@ M00029,"Staphylococcal arthritis, unspecified elbow",M0002
 M00031,"Staphylococcal arthritis, right wrist",M0003
 M00032,"Staphylococcal arthritis, left wrist",M0003
 M00039,"Staphylococcal arthritis, unspecified wrist",M0003
-M00041,"Staphylococcal arthritis, right hand",M0004
-M00042,"Staphylococcal arthritis, left hand",M0004
-M00049,"Staphylococcal arthritis, unspecified hand",M0004
-M00051,"Staphylococcal arthritis, right hip",M0005
-M00052,"Staphylococcal arthritis, left hip",M0005
-M00059,"Staphylococcal arthritis, unspecified hip",M0005
-M00061,"Staphylococcal arthritis, right knee",M0006
-M00062,"Staphylococcal arthritis, left knee",M0006
-M00069,"Staphylococcal arthritis, unspecified knee",M0006
-M00071,"Staphylococcal arthritis, right ankle and foot",M0007
-M00072,"Staphylococcal arthritis, left ankle and foot",M0007
-M00079,"Staphylococcal arthritis, unspecified ankle and foot",M0007
-M0008,"Staphylococcal arthritis, vertebrae",M000
-M0009,Staphylococcal polyarthritis,M000
-M0010,"Pneumococcal arthritis, unspecified joint",M001
-M00111,"Pneumococcal arthritis, right shoulder",M0011
-M00112,"Pneumococcal arthritis, left shoulder",M0011
-M00119,"Pneumococcal arthritis, unspecified shoulder",M0011
-M00121,"Pneumococcal arthritis, right elbow",M0012
-M00122,"Pneumococcal arthritis, left elbow",M0012
-M00129,"Pneumococcal arthritis, unspecified elbow",M0012
-M00131,"Pneumococcal arthritis, right wrist",M0013
-M00132,"Pneumococcal arthritis, left wrist",M0013
-M00139,"Pneumococcal arthritis, unspecified wrist",M0013
-M00141,"Pneumococcal arthritis, right hand",M0014
-M00142,"Pneumococcal arthritis, left hand",M0014
-M00149,"Pneumococcal arthritis, unspecified hand",M0014
-M00151,"Pneumococcal arthritis, right hip",M0015
-M00152,"Pneumococcal arthritis, left hip",M0015
-M00159,"Pneumococcal arthritis, unspecified hip",M0015
-M00161,"Pneumococcal arthritis, right knee",M0016
-M00162,"Pneumococcal arthritis, left knee",M0016
-M00169,"Pneumococcal arthritis, unspecified knee",M0016
-M00171,"Pneumococcal arthritis, right ankle and foot",M0017
-M00172,"Pneumococcal arthritis, left ankle and foot",M0017
-M00179,"Pneumococcal arthritis, unspecified ankle and foot",M0017
-M0018,"Pneumococcal arthritis, vertebrae",M001
-M0019,Pneumococcal polyarthritis,M001
-M0020,"Other streptococcal arthritis, unspecified joint",M002
-M00211,"Other streptococcal arthritis, right shoulder",M0021
 N000,Acute nephritic syndrome with minor glomerular abnormality,N00
 N001,Acute nephritic syndrome with focal and segmental glomerular lesions,N00
 N002,Acute nephritic syndrome with diffuse membranous glomerulonephritis,N00
@@ -659,46 +139,6 @@ N006,Acute nephritic syndrome with dense deposit disease,N00
 N007,Acute nephritic syndrome with diffuse crescentic glomerulonephritis,N00
 N008,Acute nephritic syndrome with other morphologic changes,N00
 N009,Acute nephritic syndrome with unspecified morphologic changes,N00
-N010,Rapidly progressive nephritic syndrome with minor glomerular abnormality,N01
-N011,Rapidly progressive nephritic syndrome with focal and segmental glomerular lesions,N01
-N012,Rapidly progressive nephritic syndrome with diffuse membranous glomerulonephritis,N01
-N013,Rapidly progressive nephritic syndrome with diffuse mesangial proliferative glomerulonephritis,N01
-N014,Rapidly progressive nephritic syndrome with diffuse endocapillary proliferative glomerulonephritis,N01
-N015,Rapidly progressive nephritic syndrome with diffuse mesangiocapillary glomerulonephritis,N01
-N016,Rapidly progressive nephritic syndrome with dense deposit disease,N01
-N017,Rapidly progressive nephritic syndrome with diffuse crescentic glomerulonephritis,N01
-N018,Rapidly progressive nephritic syndrome with other morphologic changes,N01
-N019,Rapidly progressive nephritic syndrome with unspecified morphologic changes,N01
-N020,Recurrent and persistent hematuria with minor glomerular abnormality,N02
-N021,Recurrent and persistent hematuria with focal and segmental glomerular lesions,N02
-N022,Recurrent and persistent hematuria with diffuse membranous glomerulonephritis,N02
-N023,Recurrent and persistent hematuria with diffuse mesangial proliferative glomerulonephritis,N02
-N024,Recurrent and persistent hematuria with diffuse endocapillary proliferative glomerulonephritis,N02
-N025,Recurrent and persistent hematuria with diffuse mesangiocapillary glomerulonephritis,N02
-N026,Recurrent and persistent hematuria with dense deposit disease,N02
-N027,Recurrent and persistent hematuria with diffuse crescentic glomerulonephritis,N02
-N028,Recurrent and persistent hematuria with other morphologic changes,N02
-N029,Recurrent and persistent hematuria with unspecified morphologic changes,N02
-N030,Chronic nephritic syndrome with minor glomerular abnormality,N03
-N031,Chronic nephritic syndrome with focal and segmental glomerular lesions,N03
-N032,Chronic nephritic syndrome with diffuse membranous glomerulonephritis,N03
-N033,Chronic nephritic syndrome with diffuse mesangial proliferative glomerulonephritis,N03
-N034,Chronic nephritic syndrome with diffuse endocapillary proliferative glomerulonephritis,N03
-N035,Chronic nephritic syndrome with diffuse mesangiocapillary glomerulonephritis,N03
-N036,Chronic nephritic syndrome with dense deposit disease,N03
-N037,Chronic nephritic syndrome with diffuse crescentic glomerulonephritis,N03
-N038,Chronic nephritic syndrome with other morphologic changes,N03
-N039,Chronic nephritic syndrome with unspecified morphologic changes,N03
-N040,Nephrotic syndrome with minor glomerular abnormality,N04
-N041,Nephrotic syndrome with focal and segmental glomerular lesions,N04
-N042,Nephrotic syndrome with diffuse membranous glomerulonephritis,N04
-N043,Nephrotic syndrome with diffuse mesangial proliferative glomerulonephritis,N04
-N044,Nephrotic syndrome with diffuse endocapillary proliferative glomerulonephritis,N04
-N045,Nephrotic syndrome with diffuse mesangiocapillary glomerulonephritis,N04
-N046,Nephrotic syndrome with dense deposit disease,N04
-N047,Nephrotic syndrome with diffuse crescentic glomerulonephritis,N04
-N048,Nephrotic syndrome with other morphologic changes,N04
-N049,Nephrotic syndrome with unspecified morphologic changes,N04
 O000,Abdominal pregnancy,O00
 O001,Tubal pregnancy,O00
 O002,Ovarian pregnancy,O00
@@ -709,46 +149,6 @@ O011,Incomplete and partial hydatidiform mole,O01
 O019,"Hydatidiform mole, unspecified",O01
 O020,Blighted ovum and nonhydatidiform mole,O02
 O021,Missed abortion,O02
-O028,Other specified abnormal products of conception,O02
-O029,"Abnormal product of conception, unspecified",O02
-O030,Genital tract and pelvic infection following incomplete spontaneous abortion,O03
-O031,Delayed or excessive hemorrhage following incomplete spontaneous abortion,O03
-O032,Embolism following incomplete spontaneous abortion,O03
-O0330,Unspecified complication following incomplete spontaneous abortion,O033
-O0331,Shock following incomplete spontaneous abortion,O033
-O0332,Renal failure following incomplete spontaneous abortion,O033
-O0333,Metabolic disorder following incomplete spontaneous abortion,O033
-O0334,Damage to pelvic organs following incomplete spontaneous abortion,O033
-O0335,Other venous complications following incomplete spontaneous abortion,O033
-O0336,Cardiac arrest following incomplete spontaneous abortion,O033
-O0337,Sepsis following incomplete spontaneous abortion,O033
-O0338,Urinary tract infection following incomplete spontaneous abortion,O033
-O0339,Incomplete spontaneous abortion with other complications,O033
-O034,Incomplete spontaneous abortion without complication,O03
-O035,Genital tract and pelvic infection following complete or unspecified spontaneous abortion,O03
-O036,Delayed or excessive hemorrhage following complete or unspecified spontaneous abortion,O03
-O037,Embolism following complete or unspecified spontaneous abortion,O03
-O0380,Unspecified complication following complete or unspecified spontaneous abortion,O038
-O0381,Shock following complete or unspecified spontaneous abortion,O038
-O0382,Renal failure following complete or unspecified spontaneous abortion,O038
-O0383,Metabolic disorder following complete or unspecified spontaneous abortion,O038
-O0384,Damage to pelvic organs following complete or unspecified spontaneous abortion,O038
-O0385,Other venous complications following complete or unspecified spontaneous abortion,O038
-O0386,Cardiac arrest following complete or unspecified spontaneous abortion,O038
-O0387,Sepsis following complete or unspecified spontaneous abortion,O038
-O0388,Urinary tract infection following complete or unspecified spontaneous abortion,O038
-O0389,Complete or unspecified spontaneous abortion with other complications,O038
-O039,Complete or unspecified spontaneous abortion without complication,O03
-O045,Genital tract and pelvic infection following (induced) termination of pregnancy,O04
-O046,Delayed or excessive hemorrhage following (induced) termination of pregnancy,O04
-O047,Embolism following (induced) termination of pregnancy,O04
-O0480,(Induced) termination of pregnancy with unspecified complications,O048
-O0481,Shock following (induced) termination of pregnancy,O048
-O0482,Renal failure following (induced) termination of pregnancy,O048
-O0483,Metabolic disorder following (induced) termination of pregnancy,O048
-O0484,Damage to pelvic organs following (induced) termination of pregnancy,O048
-O0485,Other venous complications following (induced) termination of pregnancy,O048
-O0486,Cardiac arrest following (induced) termination of pregnancy,O048
 P000,Newborn (suspected to be) affected by maternal hypertensive disorders,P00
 P001,Newborn (suspected to be) affected by maternal renal and urinary tract diseases,P00
 P002,Newborn (suspected to be) affected by maternal infectious and parasitic diseases,P00
@@ -759,46 +159,6 @@ P006,Newborn (suspected to be) affected by surgical procedure on mother,P00
 P007,"Newborn (suspected to be) affected by other medical procedures on mother, not elsewhere classified",P00
 P0081,Newborn (suspected to be) affected by periodontal disease in mother,P008
 P0089,Newborn (suspected to be) affected by other maternal conditions,P008
-P009,Newborn (suspected to be) affected by unspecified maternal condition,P00
-P010,Newborn (suspected to be) affected by incompetent cervix,P01
-P011,Newborn (suspected to be) affected by premature rupture of membranes,P01
-P012,Newborn (suspected to be) affected by oligohydramnios,P01
-P013,Newborn (suspected to be) affected by polyhydramnios,P01
-P014,Newborn (suspected to be) affected by ectopic pregnancy,P01
-P015,Newborn (suspected to be) affected by multiple pregnancy,P01
-P016,Newborn (suspected to be) affected by maternal death,P01
-P017,Newborn (suspected to be) affected by malpresentation before labor,P01
-P018,Newborn (suspected to be) affected by other maternal complications of pregnancy,P01
-P019,"Newborn (suspected to be) affected by maternal complication of pregnancy, unspecified",P01
-P020,Newborn (suspected to be) affected by placenta previa,P02
-P021,Newborn (suspected to be) affected by other forms of placental separation and hemorrhage,P02
-P0220,Newborn (suspected to be) affected by unspecified morphological and functional abnormalities of placenta,P022
-P0229,Newborn (suspected to be) affected by other morphological and functional abnormalities of placenta,P022
-P023,Newborn (suspected to be) affected by placental transfusion syndromes,P02
-P024,Newborn (suspected to be) affected by prolapsed cord,P02
-P025,Newborn (suspected to be) affected by other compression of umbilical cord,P02
-P0260,Newborn (suspected to be) affected by unspecified conditions of umbilical cord,P026
-P0269,Newborn (suspected to be) affected by other conditions of umbilical cord,P026
-P027,Newborn (suspected to be) affected by chorioamnionitis,P02
-P028,Newborn (suspected to be) affected by other abnormalities of membranes,P02
-P029,"Newborn (suspected to be) affected by abnormality of membranes, unspecified",P02
-P030,Newborn (suspected to be) affected by breech delivery and extraction,P03
-P031,"Newborn (suspected to be) affected by other malpresentation, malposition and disproportion during labor and delivery",P03
-P032,Newborn (suspected to be) affected by forceps delivery,P03
-P033,Newborn (suspected to be) affected by delivery by vacuum extractor [ventouse],P03
-P034,Newborn (suspected to be) affected by Cesarean delivery,P03
-P035,Newborn (suspected to be) affected by precipitate delivery,P03
-P036,Newborn (suspected to be) affected by abnormal uterine contractions,P03
-P03810,Newborn (suspected to be) affected by abnormality in fetal (intrauterine) heart rate or rhythm before the onset of labor,P0381
-P03811,Newborn (suspected to be) affected by abnormality in fetal (intrauterine) heart rate or rhythm during labor,P0381
-P03819,"Newborn (suspected to be) affected by abnormality in fetal (intrauterine) heart rate or rhythm, unspecified as to time of onset",P0381
-P0382,Meconium passage during delivery,P038
-P0389,Newborn (suspected to be) affected by other specified complications of labor and delivery,P038
-P039,"Newborn (suspected to be) affected by complication of labor and delivery, unspecified",P03
-P040,"Newborn (suspected to be) affected by maternal anesthesia and analgesia in pregnancy, labor and delivery",P04
-P041,Newborn (suspected to be) affected by other maternal medication,P04
-P042,Newborn (suspected to be) affected by maternal use of tobacco,P04
-P043,Newborn (suspected to be) affected by maternal use of alcohol,P04
 Q000,Anencephaly,Q00
 Q001,Craniorachischisis,Q00
 Q002,Iniencephaly,Q00
@@ -809,46 +169,6 @@ Q018,Encephalocele of other sites,Q01
 Q019,"Encephalocele, unspecified",Q01
 Q02,Microcephaly,Q
 Q030,Malformations of aqueduct of Sylvius,Q03
-Q031,Atresia of foramina of Magendie and Luschka,Q03
-Q038,Other congenital hydrocephalus,Q03
-Q039,"Congenital hydrocephalus, unspecified",Q03
-Q040,Congenital malformations of corpus callosum,Q04
-Q041,Arhinencephaly,Q04
-Q042,Holoprosencephaly,Q04
-Q043,Other reduction deformities of brain,Q04
-Q044,Septo-optic dysplasia of brain,Q04
-Q045,Megalencephaly,Q04
-Q046,Congenital cerebral cysts,Q04
-Q048,Other specified congenital malformations of brain,Q04
-Q049,"Congenital malformation of brain, unspecified",Q04
-Q050,Cervical spina bifida with hydrocephalus,Q05
-Q051,Thoracic spina bifida with hydrocephalus,Q05
-Q052,Lumbar spina bifida with hydrocephalus,Q05
-Q053,Sacral spina bifida with hydrocephalus,Q05
-Q054,Unspecified spina bifida with hydrocephalus,Q05
-Q055,Cervical spina bifida without hydrocephalus,Q05
-Q056,Thoracic spina bifida without hydrocephalus,Q05
-Q057,Lumbar spina bifida without hydrocephalus,Q05
-Q058,Sacral spina bifida without hydrocephalus,Q05
-Q059,"Spina bifida, unspecified",Q05
-Q060,Amyelia,Q06
-Q061,Hypoplasia and dysplasia of spinal cord,Q06
-Q062,Diastematomyelia,Q06
-Q063,Other congenital cauda equina malformations,Q06
-Q064,Hydromyelia,Q06
-Q068,Other specified congenital malformations of spinal cord,Q06
-Q069,"Congenital malformation of spinal cord, unspecified",Q06
-Q0700,Arnold-Chiari syndrome without spina bifida or hydrocephalus,Q070
-Q0701,Arnold-Chiari syndrome with spina bifida,Q070
-Q0702,Arnold-Chiari syndrome with hydrocephalus,Q070
-Q0703,Arnold-Chiari syndrome with spina bifida and hydrocephalus,Q070
-Q078,Other specified congenital malformations of nervous system,Q07
-Q079,"Congenital malformation of nervous system, unspecified",Q07
-Q100,Congenital ptosis,Q10
-Q101,Congenital ectropion,Q10
-Q102,Congenital entropion,Q10
-Q103,Other congenital malformations of eyelid,Q10
-Q104,Absence and agenesis of lacrimal apparatus,Q10
 R000,"Tachycardia, unspecified",R00
 R001,"Bradycardia, unspecified",R00
 R002,Palpitations,R00
@@ -859,46 +179,6 @@ R011,"Cardiac murmur, unspecified",R01
 R012,Other cardiac sounds,R01
 R030,"Elevated blood-pressure reading, without diagnosis of hypertension",R03
 R031,Nonspecific low blood-pressure reading,R03
-R040,Epistaxis,R04
-R041,Hemorrhage from throat,R04
-R042,Hemoptysis,R04
-R048,Hemorrhage from other sites in respiratory passages,R04
-R049,"Hemorrhage from respiratory passages, unspecified",R04
-R05,Cough,R
-R0600,Dyspnea NOS,R060
-R0601,Orthopnea,R060
-R0602,Shortness of breath,R060
-R0609,Other forms of dyspnea,R060
-R061,Stridor,R06
-R062,Wheezing,R06
-R063,Periodic breathing,R06
-R064,Hyperventilation,R06
-R065,Mouth breathing,R06
-R066,Hiccough,R06
-R067,Sneezing,R06
-R0681,"Apnea, not elsewhere classified",R068
-R0682,"Tachypnea, not elsewhere classified",R068
-R0683,Snoring,R068
-R0689,Other abnormalities of breathing,R068
-R069,Unspecified abnormalities of breathing,R06
-R070,Pain in throat,R07
-R071,Chest pain on breathing,R07
-R072,Precordial pain,R07
-R0781,Pleurodynia,R078
-R0782,Intercostal pain,R078
-R0789,Other chest pain,R078
-R079,"Chest pain, unspecified",R07
-R0901,Asphyxia,R090
-R0902,Hypoxemia,R090
-R091,Pleurisy,R09
-R092,Respiratory arrest,R09
-R093,Abnormal sputum,R09
-R0981,Nasal congestion,R098
-R0982,Postnasal drip,R098
-R0989,Other specified symptoms and signs involving the circulatory and respiratory systems,R098
-R100,Acute abdomen,R10
-R1010,"Upper abdominal pain, unspecified",R101
-R1011,Right upper quadrant pain,R101
 S0000xA,"Unspecified superficial injury of scalp, initial encounter",S0000x
 S0000xD,"Unspecified superficial injury of scalp, subsequent encounter",S0000x
 S0000xS,"Unspecified superficial injury of scalp, sequela",S0000x
@@ -909,46 +189,6 @@ S0002xA,"Blister (nonthermal) of scalp, initial encounter",S0002x
 S0002xD,"Blister (nonthermal) of scalp, subsequent encounter",S0002x
 S0002xS,"Blister (nonthermal) of scalp, sequela",S0002x
 S0003xA,"Contusion of scalp, initial encounter",S0003x
-S0003xD,"Contusion of scalp, subsequent encounter",S0003x
-S0003xS,"Contusion of scalp, sequela",S0003x
-S0004xA,"External constriction of part of scalp, initial encounter",S0004x
-S0004xD,"External constriction of part of scalp, subsequent encounter",S0004x
-S0004xS,"External constriction of part of scalp, sequela",S0004x
-S0005xA,"Superficial foreign body of scalp, initial encounter",S0005x
-S0005xD,"Superficial foreign body of scalp, subsequent encounter",S0005x
-S0005xS,"Superficial foreign body of scalp, sequela",S0005x
-S0006xA,"Insect bite (nonvenomous) of scalp, initial encounter",S0006x
-S0006xD,"Insect bite (nonvenomous) of scalp, subsequent encounter",S0006x
-S0006xS,"Insect bite (nonvenomous) of scalp, sequela",S0006x
-S0007xA,"Other superficial bite of scalp, initial encounter",S0007x
-S0007xD,"Other superficial bite of scalp, subsequent encounter",S0007x
-S0007xS,"Other superficial bite of scalp, sequela",S0007x
-S0010xA,"Contusion of unspecified eyelid and periocular area, initial encounter",S0010x
-S0010xD,"Contusion of unspecified eyelid and periocular area, subsequent encounter",S0010x
-S0010xS,"Contusion of unspecified eyelid and periocular area, sequela",S0010x
-S0011xA,"Contusion of right eyelid and periocular area, initial encounter",S0011x
-S0011xD,"Contusion of right eyelid and periocular area, subsequent encounter",S0011x
-S0011xS,"Contusion of right eyelid and periocular area, sequela",S0011x
-S0012xA,"Contusion of left eyelid and periocular area, initial encounter",S0012x
-S0012xD,"Contusion of left eyelid and periocular area, subsequent encounter",S0012x
-S0012xS,"Contusion of left eyelid and periocular area, sequela",S0012x
-S00201A,"Unspecified superficial injury of right eyelid and periocular area, initial encounter",S00201
-S00201D,"Unspecified superficial injury of right eyelid and periocular area, subsequent encounter",S00201
-S00201S,"Unspecified superficial injury of right eyelid and periocular area, sequela",S00201
-S00202A,"Unspecified superficial injury of left eyelid and periocular area, initial encounter",S00202
-S00202D,"Unspecified superficial injury of left eyelid and periocular area, subsequent encounter",S00202
-S00202S,"Unspecified superficial injury of left eyelid and periocular area, sequela",S00202
-S00209A,"Unspecified superficial injury of unspecified eyelid and periocular area, initial encounter",S00209
-S00209D,"Unspecified superficial injury of unspecified eyelid and periocular area, subsequent encounter",S00209
-S00209S,"Unspecified superficial injury of unspecified eyelid and periocular area, sequela",S00209
-S00211A,"Abrasion of right eyelid and periocular area, initial encounter",S00211
-S00211D,"Abrasion of right eyelid and periocular area, subsequent encounter",S00211
-S00211S,"Abrasion of right eyelid and periocular area, sequela",S00211
-S00212A,"Abrasion of left eyelid and periocular area, initial encounter",S00212
-S00212D,"Abrasion of left eyelid and periocular area, subsequent encounter",S00212
-S00212S,"Abrasion of left eyelid and periocular area, sequela",S00212
-S00219A,"Abrasion of unspecified eyelid and periocular area, initial encounter",S00219
-S00219D,"Abrasion of unspecified eyelid and periocular area, subsequent encounter",S00219
 T07,Unspecified multiple injuries,T
 T148,Other injury of suspecified body region,T14
 T1490,"Injury, unspecified",T149
@@ -959,46 +199,6 @@ T1500xS,"Foreign body in cornea, unspecified eye, sequela",T1500x
 T1501xA,"Foreign body in cornea, right eye, initial encounter",T1501x
 T1501xD,"Foreign body in cornea, right eye, subsequent encounter",T1501x
 T1501xS,"Foreign body in cornea, right eye, sequela",T1501x
-T1502xA,"Foreign body in cornea, left eye, initial encounter",T1502x
-T1502xD,"Foreign body in cornea, left eye, subsequent encounter",T1502x
-T1502xS,"Foreign body in cornea, left eye, sequela",T1502x
-T1510xA,"Foreign body in conjunctival sac, unspecified eye, initial encounter",T1510x
-T1510xD,"Foreign body in conjunctival sac, unspecified eye, subsequent encounter",T1510x
-T1510xS,"Foreign body in conjunctival sac, unspecified eye, sequela",T1510x
-T1511xA,"Foreign body in conjunctival sac, right eye, initial encounter",T1511x
-T1511xD,"Foreign body in conjunctival sac, right eye, subsequent encounter",T1511x
-T1511xS,"Foreign body in conjunctival sac, right eye, sequela",T1511x
-T1512xA,"Foreign body in conjunctival sac, left eye, initial encounter",T1512x
-T1512xD,"Foreign body in conjunctival sac, left eye, subsequent encounter",T1512x
-T1512xS,"Foreign body in conjunctival sac, left eye, sequela",T1512x
-T1580xA,"Foreign body in other and multiple parts of external eye, unspecified eye, initial encounter",T1580x
-T1580xD,"Foreign body in other and multiple parts of external eye, unspecified eye, subsequent encounter",T1580x
-T1580xS,"Foreign body in other and multiple parts of external eye, unspecified eye, sequela",T1580x
-T1581xA,"Foreign body in other and multiple parts of external eye, right eye, initial encounter",T1581x
-T1581xD,"Foreign body in other and multiple parts of external eye, right eye, subsequent encounter",T1581x
-T1581xS,"Foreign body in other and multiple parts of external eye, right eye, sequela",T1581x
-T1582xA,"Foreign body in other and multiple parts of external eye, left eye, initial encounter",T1582x
-T1582xD,"Foreign body in other and multiple parts of external eye, left eye, subsequent encounter",T1582x
-T1582xS,"Foreign body in other and multiple parts of external eye, left eye, sequela",T1582x
-T1590xA,"Foreign body on external eye, part unspecified, unspecified eye, initial encounter",T1590x
-T1590xD,"Foreign body on external eye, part unspecified, unspecified eye, subsequent encounter",T1590x
-T1590xS,"Foreign body on external eye, part unspecified, unspecified eye, sequela",T1590x
-T1591xA,"Foreign body on external eye, part unspecified, right eye, initial encounter",T1591x
-T1591xD,"Foreign body on external eye, part unspecified, right eye, subsequent encounter",T1591x
-T1591xS,"Foreign body on external eye, part unspecified, right eye, sequela",T1591x
-T1592xA,"Foreign body on external eye, part unspecified, left eye, initial encounter",T1592x
-T1592xD,"Foreign body on external eye, part unspecified, left eye, subsequent encounter",T1592x
-T1592xS,"Foreign body on external eye, part unspecified, left eye, sequela",T1592x
-T161xxA,"Foreign body in right ear, initial encounter",T161xx
-T161xxD,"Foreign body in right ear, subsequent encounter",T161xx
-T161xxS,"Foreign body in right ear, sequela",T161xx
-T162xxA,"Foreign body in left ear, initial encounter",T162xx
-T162xxD,"Foreign body in left ear, subsequent encounter",T162xx
-T162xxS,"Foreign body in left ear, sequela",T162xx
-T169xxA,"Foreign body in ear, unspecified ear, initial encounter",T169xx
-T169xxD,"Foreign body in ear, unspecified ear, subsequent encounter",T169xx
-T169xxS,"Foreign body in ear, unspecified ear, sequela",T169xx
-T170xxA,"Foreign body in nasal sinus, initial encounter",T170xx
 V0001xA,"Pedestrian on foot injured in collision with roller-skater, initial encounter",V0001x
 V0001xD,"Pedestrian on foot injured in collision with roller-skater, subsequent encounter",V0001x
 V0001xS,"Pedestrian on foot injured in collision with roller-skater, sequela",V0001x
@@ -1009,46 +209,6 @@ V0009xA,"Pedestrian on foot injured in collision with other pedestrian conveyanc
 V0009xD,"Pedestrian on foot injured in collision with other pedestrian conveyance, subsequent encounter",V0009x
 V0009xS,"Pedestrian on foot injured in collision with other pedestrian conveyance, sequela",V0009x
 V00111A,"Fall from in-line roller-skates, initial encounter",V00111
-V00111D,"Fall from in-line roller-skates, subsequent encounter",V00111
-V00111S,"Fall from in-line roller-skates, sequela",V00111
-V00112A,"In-line roller-skater colliding with stationary object, initial encounter",V00112
-V00112D,"In-line roller-skater colliding with stationary object, subsequent encounter",V00112
-V00112S,"In-line roller-skater colliding with stationary object, sequela",V00112
-V00118A,"Other in-line roller-skate accident, initial encounter",V00118
-V00118D,"Other in-line roller-skate accident, subsequent encounter",V00118
-V00118S,"Other in-line roller-skate accident, sequela",V00118
-V00121A,"Fall from non-in-line roller-skates, initial encounter",V00121
-V00121D,"Fall from non-in-line roller-skates, subsequent encounter",V00121
-V00121S,"Fall from non-in-line roller-skates, sequela",V00121
-V00122A,"Non-in-line roller-skater colliding with stationary object, initial encounter",V00122
-V00122D,"Non-in-line roller-skater colliding with stationary object, subsequent encounter",V00122
-V00122S,"Non-in-line roller-skater colliding with stationary object, sequela",V00122
-V00128A,"Other non-in-line roller-skating accident, initial encounter",V00128
-V00128D,"Other non-in-line roller-skating accident, subsequent encounter",V00128
-V00128S,"Other non-in-line roller-skating accident, sequela",V00128
-V00131A,"Fall from skateboard, initial encounter",V00131
-V00131D,"Fall from skateboard, subsequent encounter",V00131
-V00131S,"Fall from skateboard, sequela",V00131
-V00132A,"Skateboarder colliding with stationary object, initial encounter",V00132
-V00132D,"Skateboarder colliding with stationary object, subsequent encounter",V00132
-V00132S,"Skateboarder colliding with stationary object, sequela",V00132
-V00138A,"Other skateboard accident, initial encounter",V00138
-V00138D,"Other skateboard accident, subsequent encounter",V00138
-V00138S,"Other skateboard accident, sequela",V00138
-V00141A,"Fall from scooter (nonmotorized), initial encounter",V00141
-V00141D,"Fall from scooter (nonmotorized), subsequent encounter",V00141
-V00141S,"Fall from scooter (nonmotorized), sequela",V00141
-V00142A,"Scooter (nonmotorized) colliding with stationary object, initial encounter",V00142
-V00142D,"Scooter (nonmotorized) colliding with stationary object, subsequent encounter",V00142
-V00142S,"Scooter (nonmotorized) colliding with stationary object, sequela",V00142
-V00148A,"Other scooter (nonmotorized) accident, initial encounter",V00148
-V00148D,"Other scooter (nonmotorized) accident, subsequent encounter",V00148
-V00148S,"Other scooter (nonmotorized) accident, sequela",V00148
-V00181A,"Fall from other rolling-type pedestrian conveyance, initial encounter",V00181
-V00181D,"Fall from other rolling-type pedestrian conveyance, subsequent encounter",V00181
-V00181S,"Fall from other rolling-type pedestrian conveyance, sequela",V00181
-V00182A,"Pedestrian on other rolling-type pedestrian conveyance colliding with stationary object, initial encounter",V00182
-V00182D,"Pedestrian on other rolling-type pedestrian conveyance colliding with stationary object, subsequent encounter",V00182
 W000xxA,"Fall on same level due to ice and snow, initial encounter",W000xx
 W000xxD,"Fall on same level due to ice and snow, subsequent encounter",W000xx
 W000xxS,"Fall on same level due to ice and snow, sequela",W000xx
@@ -1059,46 +219,6 @@ W002xxA,"Other fall from one level to another due to ice and snow, initial encou
 W002xxD,"Other fall from one level to another due to ice and snow, subsequent encounter",W002xx
 W002xxS,"Other fall from one level to another due to ice and snow, sequela",W002xx
 W009xxA,"Unspecified fall due to ice and snow, initial encounter",W009xx
-W009xxD,"Unspecified fall due to ice and snow, subsequent encounter",W009xx
-W009xxS,"Unspecified fall due to ice and snow, sequela",W009xx
-W010xxA,"Fall on same level from slipping, tripping and stumbling without subsequent striking against object, initial encounter",W010xx
-W010xxD,"Fall on same level from slipping, tripping and stumbling without subsequent striking against object, subsequent encounter",W010xx
-W010xxS,"Fall on same level from slipping, tripping and stumbling without subsequent striking against object, sequela",W010xx
-W0110xA,"Fall on same level from slipping, tripping and stumbling with subsequent striking against unspecified object, initial encounter",W0110x
-W0110xD,"Fall on same level from slipping, tripping and stumbling with subsequent striking against unspecified object, subsequent encounter",W0110x
-W0110xS,"Fall on same level from slipping, tripping and stumbling with subsequent striking against unspecified object, sequela",W0110x
-W01110A,"Fall on same level from slipping, tripping and stumbling with subsequent striking against sharp glass, initial encounter",W01110
-W01110D,"Fall on same level from slipping, tripping and stumbling with subsequent striking against sharp glass, subsequent encounter",W01110
-W01110S,"Fall on same level from slipping, tripping and stumbling with subsequent striking against sharp glass, sequela",W01110
-W01111A,"Fall on same level from slipping, tripping and stumbling with subsequent striking against power tool or machine, initial encounter",W01111
-W01111D,"Fall on same level from slipping, tripping and stumbling with subsequent striking against power tool or machine, subsequent encounter",W01111
-W01111S,"Fall on same level from slipping, tripping and stumbling with subsequent striking against power tool or machine, sequela",W01111
-W01118A,"Fall on same level from slipping, tripping and stumbling with subsequent striking against other sharp object, initial encounter",W01118
-W01118D,"Fall on same level from slipping, tripping and stumbling with subsequent striking against other sharp object, subsequent encounter",W01118
-W01118S,"Fall on same level from slipping, tripping and stumbling with subsequent striking against other sharp object, sequela",W01118
-W01119A,"Fall on same level from slipping, tripping and stumbling with subsequent striking against unspecified sharp object, initial encounter",W01119
-W01119D,"Fall on same level from slipping, tripping and stumbling with subsequent striking against unspecified sharp object, subsequent encounter",W01119
-W01119S,"Fall on same level from slipping, tripping and stumbling with subsequent striking against unspecified sharp object, sequela",W01119
-W01190A,"Fall on same level from slipping, tripping and stumbling with subsequent striking against furniture, initial encounter",W01190
-W01190D,"Fall on same level from slipping, tripping and stumbling with subsequent striking against furniture, subsequent encounter",W01190
-W01190S,"Fall on same level from slipping, tripping and stumbling with subsequent striking against furniture, sequela",W01190
-W01198A,"Fall on same level from slipping, tripping and stumbling with subsequent striking against other object, initial encounter",W01198
-W01198D,"Fall on same level from slipping, tripping and stumbling with subsequent striking against other object, subsequent encounter",W01198
-W01198S,"Fall on same level from slipping, tripping and stumbling with subsequent striking against other object, sequela",W01198
-W02,deactivated. See category V00,W
-W03xxxA,"Other fall on same level due to collision with another person, initial encounter",W03xxx
-W03xxxD,"Other fall on same level due to collision with another person, subsequent encounter",W03xxx
-W03xxxS,"Other fall on same level due to collision with another person, sequela",W03xxx
-W04xxxA,"Fall while being carried or supported by other persons, initial encounter",W04xxx
-W04xxxD,"Fall while being carried or supported by other persons, subsequent encounter",W04xxx
-W04xxxS,"Fall while being carried or supported by other persons, sequela",W04xxx
-W05xxxA,"Fall from non-moving wheelchair, initial encounter",W05xxx
-W05xxxD,"Fall from non-moving wheelchair, subsequent encounter",W05xxx
-W05xxxS,"Fall from non-moving wheelchair, sequela",W05xxx
-W06xxxA,"Fall from bed, initial encounter",W06xxx
-W06xxxD,"Fall from bed, subsequent encounter",W06xxx
-W06xxxS,"Fall from bed, sequela",W06xxx
-W07xxxA,"Fall from chair, initial encounter",W07xxx
 X000xxA,"Exposure to flames in uncontrolled fire in building or structure, initial encounter",X000xx
 X000xxD,"Exposure to flames in uncontrolled fire in building or structure, subsequent encounter",X000xx
 X000xxS,"Exposure to flames in uncontrolled fire in building or structure, sequela",X000xx
@@ -1109,46 +229,6 @@ X002xxA,"Injury due to collapse of burning building or structure in uncontrolled
 X002xxD,"Injury due to collapse of burning building or structure in uncontrolled fire, subsequent encounter",X002xx
 X002xxS,"Injury due to collapse of burning building or structure in uncontrolled fire, sequela",X002xx
 X003xxA,"Fall from burning building or structure in uncontrolled fire, initial encounter",X003xx
-X003xxD,"Fall from burning building or structure in uncontrolled fire, subsequent encounter",X003xx
-X003xxS,"Fall from burning building or structure in uncontrolled fire, sequela",X003xx
-X004xxA,"Hit by object from burning building or structure in uncontrolled fire, initial encounter",X004xx
-X004xxD,"Hit by object from burning building or structure in uncontrolled fire, subsequent encounter",X004xx
-X004xxS,"Hit by object from burning building or structure in uncontrolled fire, sequela",X004xx
-X005xxA,"Jump from burning building or structure in uncontrolled fire, initial encounter",X005xx
-X005xxD,"Jump from burning building or structure in uncontrolled fire, subsequent encounter",X005xx
-X005xxS,"Jump from burning building or structure in uncontrolled fire, sequela",X005xx
-X008xxA,"Other exposure to uncontrolled fire in building or structure, initial encounter",X008xx
-X008xxD,"Other exposure to uncontrolled fire in building or structure, subsequent encounter",X008xx
-X008xxS,"Other exposure to uncontrolled fire in building or structure, sequela",X008xx
-X010xxA,"Exposure to flames in uncontrolled fire, not in building or structure, initial encounter",X010xx
-X010xxD,"Exposure to flames in uncontrolled fire, not in building or structure, subsequent encounter",X010xx
-X010xxS,"Exposure to flames in uncontrolled fire, not in building or structure, sequela",X010xx
-X011xxA,"Exposure to smoke in uncontrolled fire, not in building or structure, initial encounter",X011xx
-X011xxD,"Exposure to smoke in uncontrolled fire, not in building or structure, subsequent encounter",X011xx
-X011xxS,"Exposure to smoke in uncontrolled fire, not in building or structure, sequela",X011xx
-X013xxA,"Fall due to uncontrolled fire, not in building or structure, initial encounter",X013xx
-X013xxD,"Fall due to uncontrolled fire, not in building or structure, subsequent encounter",X013xx
-X013xxS,"Fall due to uncontrolled fire, not in building or structure, sequela",X013xx
-X014xxA,"Hit by object due to uncontrolled fire, not in building or structure, initial encounter",X014xx
-X014xxD,"Hit by object due to uncontrolled fire, not in building or structure, subsequent encounter",X014xx
-X014xxS,"Hit by object due to uncontrolled fire, not in building or structure, sequela",X014xx
-X018xxA,"Other exposure to uncontrolled fire, not in building or structure, initial encounter",X018xx
-X018xxD,"Other exposure to uncontrolled fire, not in building or structure, subsequent encounter",X018xx
-X018xxS,"Other exposure to uncontrolled fire, not in building or structure, sequela",X018xx
-X020xxA,"Exposure to flames in controlled fire in building or structure, initial encounter",X020xx
-X020xxD,"Exposure to flames in controlled fire in building or structure, subsequent encounter",X020xx
-X020xxS,"Exposure to flames in controlled fire in building or structure, sequela",X020xx
-X021xxA,"Exposure to smoke in controlled fire in building or structure, initial encounter",X021xx
-X021xxD,"Exposure to smoke in controlled fire in building or structure, subsequent encounter",X021xx
-X021xxS,"Exposure to smoke in controlled fire in building or structure, sequela",X021xx
-X022xxA,"Injury due to collapse of burning building or structure in controlled fire, initial encounter",X022xx
-X022xxD,"Injury due to collapse of burning building or structure in controlled fire, subsequent encounter",X022xx
-X022xxS,"Injury due to collapse of burning building or structure in controlled fire, sequela",X022xx
-X023xxA,"Fall from burning building or structure in controlled fire, initial encounter",X023xx
-X023xxD,"Fall from burning building or structure in controlled fire, subsequent encounter",X023xx
-X023xxS,"Fall from burning building or structure in controlled fire, sequela",X023xx
-X024xxA,"Hit by object from burning building or structure in controlled fire, initial encounter",X024xx
-X024xxD,"Hit by object from burning building or structure in controlled fire, subsequent encounter",X024xx
 Y00xxxA,"Assault by blunt object, initial encounter",Y00xxx
 Y00xxxD,"Assault by blunt object, subsequent encounter",Y00xxx
 Y00xxxS,"Assault by blunt object, sequela",Y00xxx
@@ -1159,46 +239,6 @@ Y020xxA,"Assault by pushing or placing victim in front of motor vehicle, initial
 Y020xxD,"Assault by pushing or placing victim in front of motor vehicle, subsequent encounter",Y020xx
 Y020xxS,"Assault by pushing or placing victim in front of motor vehicle, sequela",Y020xx
 Y021xxA,"Assault by pushing or placing victim in front of (subway) train, initial encounter",Y021xx
-Y021xxD,"Assault by pushing or placing victim in front of (subway) train, subsequent encounter",Y021xx
-Y021xxS,"Assault by pushing or placing victim in front of (subway) train, sequela",Y021xx
-Y028xxA,"Assault by pushing or placing victim in front of other moving object, initial encounter",Y028xx
-Y028xxD,"Assault by pushing or placing victim in front of other moving object, subsequent encounter",Y028xx
-Y028xxS,"Assault by pushing or placing victim in front of other moving object, sequela",Y028xx
-Y030xxA,"Assault by being hit or run over by motor vehicle, initial encounter",Y030xx
-Y030xxD,"Assault by being hit or run over by motor vehicle, subsequent encounter",Y030xx
-Y030xxS,"Assault by being hit or run over by motor vehicle, sequela",Y030xx
-Y038xxA,"Other assault by crashing of motor vehicle, initial encounter",Y038xx
-Y038xxD,"Other assault by crashing of motor vehicle, subsequent encounter",Y038xx
-Y038xxS,"Other assault by crashing of motor vehicle, sequela",Y038xx
-Y040xxA,"Assault by unarmed brawl or fight, initial encounter",Y040xx
-Y040xxD,"Assault by unarmed brawl or fight, subsequent encounter",Y040xx
-Y040xxS,"Assault by unarmed brawl or fight, sequela",Y040xx
-Y041xxA,"Assault by human bite, initial encounter",Y041xx
-Y041xxD,"Assault by human bite, subsequent encounter",Y041xx
-Y041xxS,"Assault by human bite, sequela",Y041xx
-Y042xxA,"Assault by strike against or bumped into by another person, initial encounter",Y042xx
-Y042xxD,"Assault by strike against or bumped into by another person, subsequent encounter",Y042xx
-Y042xxS,"Assault by strike against or bumped into by another person, sequela",Y042xx
-Y048xxA,"Assault by other bodily force, initial encounter",Y048xx
-Y048xxD,"Assault by other bodily force, subsequent encounter",Y048xx
-Y048xxS,"Assault by other bodily force, sequela",Y048xx
-Y05,"deactivated.  See T74.0, T76.0",Y
-Y06,"deactivated.  See T74.0, T76.0",Y
-Y0701,Husband as perpetrator of maltreatment and neglect,Y070
-Y0702,Wife as perpetrator of maltreatment and neglect,Y070
-Y0703,Male partner as perpetrator of maltreatment and neglect,Y070
-Y0704,Female partner as perpetrator of maltreatment and neglect,Y070
-Y0711,Biological father as perpetrator of maltreatment and neglect,Y071
-Y0712,Biological mother as perpetrator of maltreatment and neglect,Y071
-Y0713,Adoptive father as perpetrator of maltreatment and neglect,Y071
-Y0714,Adoptive mother as perpetrator of maltreatment and neglect,Y071
-Y07410,Brother as perpetrator of maltreatment and neglect,Y0741
-Y07411,Sister as perpetrator of maltreatment and neglect,Y0741
-Y07420,Foster father as perpetrator of maltreatment and neglect,Y0742
-Y07421,Foster mother as perpetrator of maltreatment and neglect,Y0742
-Y07430,Stepfather as perpetrator of maltreatment and neglect,Y0743
-Y07432,Male friend of parent (co-residing in household) as perpetrator of maltreatment and neglect,Y0743
-Y07433,Stepmother as perpetrator of maltreatment and neglect,Y0743
 Z0000,Encounter for general adult medical examination without abnormal findings,Z000
 Z0001,Encounter for general adult medical examination with abnormal findings,Z000
 Z0010,Encounter for routine child health examination without abnormal findings,Z001
@@ -1209,177 +249,41 @@ Z005,Encounter for examination of potential donor of organ and tissue,Z00
 Z006,Encounter for examination for normal comparison and control in clinical research program,Z00
 Z0070,Encounter for examination for period of delayed growth in childhood without abnormal findings,Z007
 Z0071,Encounter for examination for period of delayed growth in childhood with abnormal findings,Z007
-Z008,Encounter for other general examination,Z00
-Z0100,Encounter for examination of eyes and vision without abnormal findings,Z010
-Z0101,Encounter for examination of eyes and vision with abnormal findings,Z010
-Z0110,Encounter for examination of ears and hearing without abnormal findings,Z011
-Z01110,Encounter for hearing examination following failed hearing screening,Z0111
-Z01118,Encounter for examination of ears and hearing with other abnormal findings,Z0111
-Z0112,Encounter for hearing conservation and treatment,Z011
-Z0120,Encounter for dental examination and cleaning without abnormal findings,Z012
-Z0121,Encounter for dental examination and cleaning with abnormal findings,Z012
-Z0130,Encounter for examination of blood pressure without abnormal findings,Z013
-Z0131,Encounter for examination of blood pressure with abnormal findings,Z013
-Z01411,Encounter for gynecological examination (general) (routine) with abnormal findings,Z0141
-Z01419,Encounter for gynecological examination (general) (routine) without abnormal findings,Z0141
-Z0142,Encounter for cervical smear to confirm findings of recent normal smear following initial abnormal smear,Z014
-Z01810,Encounter for preprocedural cardiovascular examination,Z0181
-Z01811,Encounter for preprocedural respiratory examination,Z0181
-Z01818,Encounter for other preprocedural examination,Z0181
-Z0182,Encounter for allergy test,Z018
-Z0183,Encounter for blood typing,Z018
-Z0189,Encounter for other specified special examinations,Z018
-Z020,Encounter for examination for admission to educational institution,Z02
-Z021,Encounter for pre-employment examination,Z02
-Z022,Encounter for examination for admission to residential institution,Z02
-Z023,Encounter for examination for recruitment to armed forces,Z02
-Z024,Encounter for examination for driving license,Z02
-Z025,Encounter for examination for participation in sport,Z02
-Z026,Encounter for examination for insurance purposes,Z02
-Z0271,Encounter for disability determination,Z027
-Z0279,Encounter for issue of other medical certificate,Z027
-Z0281,Encounter for paternity testing,Z028
-Z0282,Encounter for adoption services,Z028
-Z0283,Encounter for blood-alcohol and blood-drug test,Z028
-Z0289,Encounter for other administrative examinations,Z028
-Z029,"Encounter for administrative examinations, unspecified",Z02
-Z036,Encounter for observation for suspected toxic effect from ingested substance ruled out,Z03
-Z0381,Encounter for observation for suspected exposure to anthrax,Z038
-Z0382,Encounter for observation for suspected exposure to other biological agents,Z038
-Z0389,Encounter for observation for other suspected diseases and conditions ruled out,Z038
-Z041,Encounter for examination and observation following transport accident,Z04
-Z042,Encounter for examination and observation following work accident,Z04
 A00,,A
 A,,root
 root,,
 A010,,A01
 A01,,A
-A02,,A
-A022,,A02
-A03,,A
-A04,,A
-A05,,A
-A06,,A
 B00,,B
 B,,root
 B005,,B00
-B008,,B00
-B01,,B
-B011,,B01
-B018,,B01
-B02,,B
-B022,,B02
-B023,,B02
-B05,,B
-B058,,B05
-B060,,B06
-B06,,B
 C00,,C
 C,,root
-C02,,C
-C03,,C
-C04,,C
-C05,,C
-C06,,C
-C068,,C06
-C08,,C
-C09,,C
-C10,,C
 D000,,D00
 D00,,D
 D,,root
-D01,,D
-D014,,D01
-D02,,D
-D022,,D02
-D03,,D
-D031,,D03
-D032,,D03
-D033,,D03
-D035,,D03
-D036,,D03
-D037,,D03
-D04,,D
-D041,,D04
 E00,,E
 E,,root
 E01,,E
 E03,,E
-E04,,E
-E050,,E05
-E05,,E
-E051,,E05
-E052,,E05
-E053,,E05
-E054,,E05
-E058,,E05
-E059,,E05
-E06,,E
-E07,,E
-E078,,E07
-E080,,E08
-E08,,E
 F015,,F01
 F01,,F
 F,,root
 F028,,F02
 F02,,F
 F06,,F
-F063,,F06
-F07,,F
-F078,,F07
-F101,,F10
-F10,,F
-F1012,,F101
-F1015,,F101
-F1018,,F101
-F102,,F10
-F1022,,F102
-F1023,,F102
-F1025,,F102
 G00,,G
 G,,root
 G03,,G
-G040,,G04
-G04,,G
-G043,,G04
-G048,,G04
-G049,,G04
-G05,,G
-G06,,G
-G11,,G
-G12,,G
-G122,,G12
-G13,,G
 H0001,,H000
 H000,,H00
 H00,,H
 H,,root
 H0002,,H000
-H0003,,H000
-H001,,H00
-H0100,,H010
-H010,,H01
-H01,,H
-H0101,,H010
-H0102,,H010
-H0111,,H011
-H011,,H01
 I,,root
 I01,,I
 I02,,I
 I05,,I
-I06,,I
-I07,,I
-I08,,I
-I09,,I
-I098,,I09
-I11,,I
-I12,,I
-I13,,I
-I131,,I13
-I15,,I
-I20,,I
 J,,root
 J010,,J01
 J01,,J
@@ -1387,123 +291,36 @@ J011,,J01
 J012,,J01
 J013,,J01
 J014,,J01
-J018,,J01
-J019,,J01
-J02,,J
-J030,,J03
-J03,,J
-J038,,J03
-J039,,J03
-J04,,J
-J041,,J04
-J043,,J04
-J05,,J
-J051,,J05
-J06,,J
-J10,,J
-J108,,J10
-J12,,J
-J15,,J
-J152,,J15
 K00,,K
 K,,root
-K01,,K
-K02,,K
-K025,,K02
-K026,,K02
-K03,,K
-K038,,K03
-K04,,K
-K049,,K04
-K050,,K05
-K05,,K
-K051,,K05
-K052,,K05
 L,,root
 L010,,L01
 L01,,L
 L020,,L02
 L02,,L
-L021,,L02
-L0221,,L022
-L022,,L02
-L0222,,L022
-L0223,,L022
-L023,,L02
-L0241,,L024
-L024,,L02
-L0242,,L024
 M000,,M00
 M00,,M
 M,,root
 M0001,,M000
 M0002,,M000
 M0003,,M000
-M0004,,M000
-M0005,,M000
-M0006,,M000
-M0007,,M000
-M001,,M00
-M0011,,M001
-M0012,,M001
-M0013,,M001
-M0014,,M001
-M0015,,M001
-M0016,,M001
-M0017,,M001
-M002,,M00
-M0021,,M002
 N00,,N
 N,,root
-N01,,N
-N02,,N
-N03,,N
-N04,,N
 O00,,O
 O,,root
 O01,,O
 O02,,O
-O03,,O
-O033,,O03
-O038,,O03
-O04,,O
-O048,,O04
 P00,,P
 P,,root
 P008,,P00
-P01,,P
-P02,,P
-P022,,P02
-P026,,P02
-P03,,P
-P0381,,P038
-P038,,P03
-P04,,P
 Q00,,Q
 Q,,root
 Q01,,Q
 Q03,,Q
-Q04,,Q
-Q05,,Q
-Q06,,Q
-Q070,,Q07
-Q07,,Q
-Q10,,Q
 R00,,R
 R,,root
 R01,,R
 R03,,R
-R04,,R
-R060,,R06
-R06,,R
-R068,,R06
-R07,,R
-R078,,R07
-R090,,R09
-R09,,R
-R098,,R09
-R10,,R
-R101,,R10
 S0000x,,S0000
 S0000,,S000
 S000,,S00
@@ -1515,30 +332,6 @@ S0002x,,S0002
 S0002,,S000
 S0003x,,S0003
 S0003,,S000
-S0004x,,S0004
-S0004,,S000
-S0005x,,S0005
-S0005,,S000
-S0006x,,S0006
-S0006,,S000
-S0007x,,S0007
-S0007,,S000
-S0010x,,S0010
-S0010,,S001
-S001,,S00
-S0011x,,S0011
-S0011,,S001
-S0012x,,S0012
-S0012,,S001
-S00201,,S0020
-S0020,,S002
-S002,,S00
-S00202,,S0020
-S00209,,S0020
-S00211,,S0021
-S0021,,S002
-S00212,,S0021
-S00219,,S0021
 T,,root
 T14,,T
 T149,,T14
@@ -1548,43 +341,6 @@ T150,,T15
 T15,,T
 T1501x,,T1501
 T1501,,T150
-T1502x,,T1502
-T1502,,T150
-T1510x,,T1510
-T1510,,T151
-T151,,T15
-T1511x,,T1511
-T1511,,T151
-T1512x,,T1512
-T1512,,T151
-T1580x,,T1580
-T1580,,T158
-T158,,T15
-T1581x,,T1581
-T1581,,T158
-T1582x,,T1582
-T1582,,T158
-T1590x,,T1590
-T1590,,T159
-T159,,T15
-T1591x,,T1591
-T1591,,T159
-T1592x,,T1592
-T1592,,T159
-T161xx,,T161x
-T161x,,T161
-T161,,T16
-T16,,T
-T162xx,,T162x
-T162x,,T162
-T162,,T16
-T169xx,,T169x
-T169x,,T169
-T169,,T16
-T170xx,,T170x
-T170x,,T170
-T170,,T17
-T17,,T
 V0001x,,V0001
 V0001,,V000
 V000,,V00
@@ -1597,23 +353,6 @@ V0009,,V000
 V00111,,V0011
 V0011,,V001
 V001,,V00
-V00112,,V0011
-V00118,,V0011
-V00121,,V0012
-V0012,,V001
-V00122,,V0012
-V00128,,V0012
-V00131,,V0013
-V0013,,V001
-V00132,,V0013
-V00138,,V0013
-V00141,,V0014
-V0014,,V001
-V00142,,V0014
-V00148,,V0014
-V00181,,V0018
-V0018,,V001
-V00182,,V0018
 W000xx,,W000x
 W000x,,W000
 W000,,W00
@@ -1628,41 +367,6 @@ W002,,W00
 W009xx,,W009x
 W009x,,W009
 W009,,W00
-W010xx,,W010x
-W010x,,W010
-W010,,W01
-W01,,W
-W0110x,,W0110
-W0110,,W011
-W011,,W01
-W01110,,W0111
-W0111,,W011
-W01111,,W0111
-W01118,,W0111
-W01119,,W0111
-W01190,,W0119
-W0119,,W011
-W01198,,W0119
-W03xxx,,W03xx
-W03xx,,W03x
-W03x,,W03
-W03,,W
-W04xxx,,W04xx
-W04xx,,W04x
-W04x,,W04
-W04,,W
-W05xxx,,W05xx
-W05xx,,W05x
-W05x,,W05
-W05,,W
-W06xxx,,W06xx
-W06xx,,W06x
-W06x,,W06
-W06,,W
-W07xxx,,W07xx
-W07xx,,W07x
-W07x,,W07
-W07,,W
 X000xx,,X000x
 X000x,,X000
 X000,,X00
@@ -1677,47 +381,6 @@ X002,,X00
 X003xx,,X003x
 X003x,,X003
 X003,,X00
-X004xx,,X004x
-X004x,,X004
-X004,,X00
-X005xx,,X005x
-X005x,,X005
-X005,,X00
-X008xx,,X008x
-X008x,,X008
-X008,,X00
-X010xx,,X010x
-X010x,,X010
-X010,,X01
-X01,,X
-X011xx,,X011x
-X011x,,X011
-X011,,X01
-X013xx,,X013x
-X013x,,X013
-X013,,X01
-X014xx,,X014x
-X014x,,X014
-X014,,X01
-X018xx,,X018x
-X018x,,X018
-X018,,X01
-X020xx,,X020x
-X020x,,X020
-X020,,X02
-X02,,X
-X021xx,,X021x
-X021x,,X021
-X021,,X02
-X022xx,,X022x
-X022x,,X022
-X022,,X02
-X023xx,,X023x
-X023x,,X023
-X023,,X02
-X024xx,,X024x
-X024x,,X024
-X024,,X02
 Y00xxx,,Y00xx
 Y00xx,,Y00x
 Y00x,,Y00
@@ -1734,54 +397,8 @@ Y02,,Y
 Y021xx,,Y021x
 Y021x,,Y021
 Y021,,Y02
-Y028xx,,Y028x
-Y028x,,Y028
-Y028,,Y02
-Y030xx,,Y030x
-Y030x,,Y030
-Y030,,Y03
-Y03,,Y
-Y038xx,,Y038x
-Y038x,,Y038
-Y038,,Y03
-Y040xx,,Y040x
-Y040x,,Y040
-Y040,,Y04
-Y04,,Y
-Y041xx,,Y041x
-Y041x,,Y041
-Y041,,Y04
-Y042xx,,Y042x
-Y042x,,Y042
-Y042,,Y04
-Y048xx,,Y048x
-Y048x,,Y048
-Y048,,Y04
-Y070,,Y07
-Y07,,Y
-Y071,,Y07
-Y0741,,Y074
-Y074,,Y07
-Y0742,,Y074
-Y0743,,Y074
 Z000,,Z00
 Z00,,Z
 Z,,root
 Z001,,Z00
 Z007,,Z00
-Z010,,Z01
-Z01,,Z
-Z011,,Z01
-Z0111,,Z011
-Z012,,Z01
-Z013,,Z01
-Z0141,,Z014
-Z014,,Z01
-Z0181,,Z018
-Z018,,Z01
-Z02,,Z
-Z027,,Z02
-Z028,,Z02
-Z03,,Z
-Z038,,Z03
-Z04,,Z
