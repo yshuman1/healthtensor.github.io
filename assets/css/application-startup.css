@@ -117,6 +117,10 @@
     margin-bottom: 1em;
 }
 
+.dx-note {
+    font-size: 0.8em;
+}
+
 /* iphone block */
 .app-iphone-block {
   padding-bottom: 60px;
@@ -128,38 +132,15 @@
   overflow: hidden;
 }
 .app-code {
-  color: #6EA4CF;
+  color: #EFEFEF;
   border: #495158 1px solid;
   background: transparent;
-  font-size: 12px;
   padding: 20px;
   line-height: 1.55;
   margin-bottom: 30px;
   border-radius: .3rem;
   overflow-x: hidden;
 }
-.app-code span {
-  color: #8496A5;
-}
-@media (min-width: 768px) {
-  .app-code {
-    width: 600px;
-    margin-bottom: 0;
-  }
-}
-@media (min-width: 992px) {
-  .app-code {
-    padding: 50px;
-    font-size: 15px;
-  }
-}
-
-
-/* pull quote block */
-.app-high-praise img {
-  width: 100%;
-}
-
 
 /* brand ribbon block */
 .app-ribbon .container {
