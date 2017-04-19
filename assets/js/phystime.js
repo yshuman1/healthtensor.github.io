@@ -53,14 +53,14 @@
       .attr("class", "legend-label");
 
     legend.append("rect")
-      .attr("x", 60)
+      .attr("x", width / 5 - 10)
       .attr("y", function(d, i) { return legendScaleY(i) - 14; })
       .attr("width", 16)
       .attr("height", 16)
       .style("fill", function(d, i) { return color(i); });
 
     legend.append("text")
-      .attr("x", 88)
+      .attr("x", width / 5 + 16)
       .attr("y", function(d, i) { return legendScaleY(i); })
       .text(function(d) { return d.cat; });
   }
