@@ -121,6 +121,10 @@
     font-size: 0.8em;
 }
 
+.dx-plan-list {
+    list-style-type: square;
+}
+
 /* iphone block */
 .app-iphone-block {
   padding-bottom: 60px;
