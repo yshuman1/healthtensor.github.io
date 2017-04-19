@@ -28,33 +28,28 @@
   }
 }
 
-/* D3 bar chart block */
-text {
+/* D3 physician time pie chart */
+.arc text {
+    font: 18px sans-serif;
+    text-anchor: middle;
+    fill: white;
+    font-family: "Work sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.legend-label text {
+    text-anchor: bottom;
+}
+
+.legend-label rect {
+    stroke: black;
     font-family: "Work sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 1.4em;
     fill: #6c6f73;
 }
 
-.bar {
-    fill: steelblue;
-    stroke: #6c6f73;
-    stroke-width: 1px;
-}
-
-.bar:hover {
-    fill: brown;
-}
-
-.axis--x > path {
-    display: none;
-}
-
-.axis--y > path {
-    stroke: #6c6f73;
-}
-
-.axis > g.tick > line {
-    stroke: #6c6f73;
+.arc path {
+    stroke: #262F36;
+    stroke-width: 2px;
 }
 
 /* icdtree block */
@@ -126,12 +121,6 @@ text {
 .app-iphone-block {
   padding-bottom: 60px;
 }
-@media (min-width: 768px) {
-  .app-iphone-block {
-    padding-bottom: 0;
-  }
-}
-
 
 /* code block */
 .app-code-block {
