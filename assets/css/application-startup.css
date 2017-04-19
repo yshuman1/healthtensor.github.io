@@ -62,6 +62,18 @@
     pointer-events: auto;
 }
 
+.logo {
+    margin-bottom: 6px;
+}
+
+.logo-health-span {
+    color: #666;
+}
+
+.logo-tensor-span {
+    color: #C00;
+}
+
 #icdtree-block {
     position: absolute;
     top: 0;
