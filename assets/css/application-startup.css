@@ -36,6 +36,11 @@
     font-family: "Work sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
+.arc path {
+    stroke: #262F36;
+    stroke-width: 1px;
+}
+
 .legend-label text {
     text-anchor: bottom;
 }
@@ -45,11 +50,6 @@
     font-family: "Work sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 1.4em;
     fill: #6c6f73;
-}
-
-.arc path {
-    stroke: #262F36;
-    stroke-width: 2px;
 }
 
 /* icdtree block */

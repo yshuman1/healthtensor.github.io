@@ -2,10 +2,9 @@
   var svg = d3.select("#phys-time"),
       legendHeight = 100;
 
-  // var color = d3.scaleOrdinal(["#98abc5", "#ff8c00", "#7b6888", "#d0743c", "#a05d56", "#8a89a6", "#6b486b"]);
-  var color = d3.scaleLinear().domain([16, 58])
+  var color = d3.scaleLinear().domain([0, 2])
       .interpolate(d3.interpolateHcl)
-      .range([d3.rgb("#0000FF"), d3.rgb('#FF0000')]);
+      .range([d3.rgb("#00006F"), d3.rgb("#BF0020")]);
 
   var pie = d3.pie()
     .sort(null)
@@ -41,7 +40,7 @@
 
     arc.append("path")
       .attr("d", path)
-      .attr("fill", function(d) { return color(d.data.time); });
+      .attr("fill", function(d, i) { return color(i); });
 
     arc.append("text")
       .attr("transform", function(d) { return "translate(" + label.centroid(d) + ")"; })
@@ -58,7 +57,7 @@
       .attr("y", function(d, i) { return legendScaleY(i) - 14; })
       .attr("width", 16)
       .attr("height", 16)
-      .style("fill", function(d) { return color(d.time); });
+      .style("fill", function(d, i) { return color(i); });
 
     legend.append("text")
       .attr("x", 88)
