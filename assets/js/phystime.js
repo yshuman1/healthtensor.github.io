@@ -1,11 +1,6 @@
 (function() {
   var svg = d3.select("#phys-time"),
-      legendHeight = 100,
-      width = util.parsePxStr(svg.style("width")),
-      height = util.parsePxStr(svg.style("height")),
-      radius = Math.min(width, height) / 2,
-      pieHeight = height - legendHeight,
-      g = svg.append("g").attr("transform", "translate(" + width / 2 + "," + pieHeight / 2 + ")");
+      legendHeight = 100;
 
   // var color = d3.scaleOrdinal(["#98abc5", "#ff8c00", "#7b6888", "#d0743c", "#a05d56", "#8a89a6", "#6b486b"]);
   var color = d3.scaleLinear().domain([16, 58])
@@ -17,24 +12,31 @@
       .padAngle(0.1)
     .value(function(d) { return d.time; });
 
-  var path = d3.arc()
-    .outerRadius(radius - 10)
-    .innerRadius(radius - 90);
 
-  var label = d3.arc()
-    .outerRadius(radius - 50)
-    .innerRadius(radius - 50);
+  function redraw(data) {
+    /* Hack to remove all elements and start from scratchrather than data-joining */
+    svg.selectAll("g").remove();
+    var width = util.parsePxStr(svg.style("width")),
+        height = util.parsePxStr(svg.style("height")),
+        pieHeight = height - legendHeight,
+        radius = Math.min(width, pieHeight) / 2,
+        g = svg.append("g").attr("transform", "translate(" + width / 2 + "," + pieHeight / 2 + ")");
 
-  var legendScaleY = d3.scaleLinear()
-      .domain([0, 2])
-      .range([pieHeight + 20, height - 20]);
+    var path = d3.arc()
+        .outerRadius(radius - 10)
+        .innerRadius(radius - 90);
 
-  d3.csv("assets/data/phystime.csv", function(error, data) {
-    if (error) throw error;
+    var label = d3.arc()
+        .outerRadius(radius - 50)
+        .innerRadius(radius - 50);
+
+    var legendScaleY = d3.scaleLinear()
+        .domain([0, 2])
+        .range([pieHeight + 20, height - 20]);
 
     var arc = g.selectAll(".arc")
         .data(pie(data))
-      .enter().append("g")
+        .enter().append("g")
       .attr("class", "arc");
 
     arc.append("path")
@@ -47,9 +49,9 @@
       .text(function(d) { return d.data.time + "%"; });
 
     var legend = svg.selectAll(".legend-label")
-        .data(data)
-        .enter().append("g")
-        .attr("class", "legend-label");
+      .data(data)
+      .enter().append("g")
+      .attr("class", "legend-label");
 
     legend.append("rect")
       .attr("x", 60)
@@ -62,5 +64,12 @@
       .attr("x", 88)
       .attr("y", function(d, i) { return legendScaleY(i); })
       .text(function(d) { return d.cat; });
+  }
+
+  d3.csv("assets/data/phystime.csv", function(error, data) {
+    if (error) throw error;
+    redraw(data);
+    window.addEventListener("resize", function() { redraw(data); });
   });
+
 })();
