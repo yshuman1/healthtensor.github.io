@@ -47,6 +47,14 @@
         scrollTop: $( $.attr(this, 'href') ).offset().top
     }, 500);
   });
+
+  $(document).on('click', 'learn-button', function(event){
+    event.preventDefault();
+
+    $('html, body').animate({
+        scrollTop: $( $.attr(this, 'href') ).offset().top
+    }, 500);
+  });
 </script>
 
 <div class="stage-shelf stage-shelf-right hidden" id="sidebar">
@@ -119,7 +127,7 @@
           <p class="lead mb-4 text-stroke">
             Automating documentation, so clinicians can get back to patients.
           </p>
-          <a href="#problem" class="pointer-events-auto"><button class="btn btn-primary btn-lg">Learn more</button></a>
+          <a href="#problem" class="nav-link pointer-events-auto"><button class="btn btn-primary btn-lg">Learn more</button></a>
         </div>
       </div>
     </div>
@@ -171,7 +179,7 @@
       <div class="col-md-6 pull-md-5">
         <h6 class="text-muted text-uppercase">The Solution</h6>
         <h3>Documenting with AI.</h3>
-        <p class="lead mb-4 text-muted">HealthTensor develops artificially intelligent systems to automate documentation for physicians. Starting with hospital patients, our technology mines the medical record for pertinent information, assists in diagnosing key conditions, and generates proper documentation.<br><br>By integrating into the workflow, HealthTensor can provide trusted, evidence-backed notes directly to physicians to save time, reduce liability, and optimize appropriate reimbursements.</p>
+        <p class="lead mb-4 text-muted">HealthTensor develops artificially intelligent systems to automate documentation for physicians. Our technology mines the medical record for pertinent information, assists in diagnosing key conditions, and generates proper documentation.<br><br>By integrating into the workflow, HealthTensor can provide trusted, evidence-backed notes directly to physicians to save time, reduce liability, and optimize appropriate reimbursements.</p>
       </div>
     </div>
   </div>
@@ -289,8 +297,8 @@
     <div class="mb-4">
       <h4 class="text-muted text-uppercase">Partners</h6>
     </div>
-    <a href="http://www.techstarscedarssinaiaccelerator.com/"><img src="assets/img/cedars-sinai_acc_rgb.png" width="300px"></a>
-    <a href="http://www.techstar.com/"><img src="https://cdn.brandisty.com/img?id=56ce5a0a1ea45c503900002f&format=png&w=600&h=450" width="200px"></a>
+    <a target="_blank" href="http://www.techstarscedarssinaiaccelerator.com/"><img src="assets/img/cedars-sinai_acc_rgb.png" width="300px"></a>
+    <a target="_blank" href="http://www.techstars.com/"><img src="https://cdn.brandisty.com/img?id=56ce5a0a1ea45c503900002f&format=png&w=600&h=450" width="200px"></a>
   </div>
 </div>
 
@@ -310,16 +318,16 @@
       <div class="col-md-2 offset-md-2 mb-5">
         <ul class="list-unstyled list-spaced">
           <li class="mb-2"><h6 class="text-uppercase">Social</h6></li>
-          <li class="text-muted"><a href="https://angel.co/healthtensor"><span class="fa fa-angellist"></span> AngelList</a></li>
-          <li class="text-muted"><a href="https://twitter.com/healthtensor"><span class="fa fa-twitter"></span> Twitter</a></li>
-          <li class="text-muted"><a href="https://github.com/HealthTensor"><span class="fa fa-github-alt"></span> GitHub</a></li>
-          <li class="text-muted"><a href="https://www.linkedin.com/company/healthtensor"><span class="fa fa-linkedin"></span> LinkedIn</a></li>
+          <li class="text-muted"><a target="_blank" href="https://angel.co/healthtensor"><span class="fa fa-angellist"></span> AngelList</a></li>
+          <li class="text-muted"><a target="_blank" href="https://twitter.com/healthtensor"><span class="fa fa-twitter"></span> Twitter</a></li>
+          <li class="text-muted"><a target="_blank" href="https://github.com/HealthTensor"><span class="fa fa-github-alt"></span> GitHub</a></li>
+          <li class="text-muted"><a target="_blank" href="https://www.linkedin.com/company/healthtensor"><span class="fa fa-linkedin"></span> LinkedIn</a></li>
         </ul>
       </div>
       <div class="col-md-2 mb-5">
         <ul class="list-unstyled list-spaced">
           <li class="mb-2"><h6 class="text-uppercase">Legal</h6></li>
-          <li class="text-muted"><a href="http://policies.healthtensor.com/">HIPAA</a></li>
+          <li class="text-muted"><a target="_blank" href="http://policies.healthtensor.com/">HIPAA</a></li>
         </ul>
       </div>
     </div>
