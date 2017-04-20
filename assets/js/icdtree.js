@@ -3,8 +3,6 @@
  **/
 
 (function() {
-  amplitude.getInstance().logEvent('icdtree.draw');
-
   function project(x, y) {
     var angle = (x - 90) / 180 * Math.PI, radius = y;
     return [radius * Math.cos(angle), radius * Math.sin(angle)];
@@ -37,22 +35,25 @@
     var link = g.selectAll(".link")
         .data(root.descendants().slice(1))
         .enter().append("path")
-      .attr("class", "link")
-      .style("stroke", function(d) { return color(d.x); })
-      .style("stroke-opacity", function(d) { return alpha(d.y); })
-      .attr("d", function(d) {
-        return "M" + project(d.x, d.y)
-          + "C" + project(d.x, (d.y + d.parent.y) / 2)
-          + " " + project(d.parent.x, (d.y + d.parent.y) / 2)
-          + " " + project(d.parent.x, d.parent.y);
-      });
+        .attr("class", "link")
+        .style("stroke", function(d) { return color(d.x); })
+        .style("stroke-opacity", function(d) { return alpha(d.y); })
+        .attr("d", function(d) {
+          return "M" + project(d.x, d.y)
+            + "C" + project(d.x, (d.y + d.parent.y) / 2)
+            + " " + project(d.parent.x, (d.y + d.parent.y) / 2)
+            + " " + project(d.parent.x, d.parent.y);
+        });
 
     var node = g.selectAll(".node")
-      .data(root.descendants())
-      .enter().append("g")
-      .attr("class", function(d) { return "node" + (d.children ? " node--internal" : " node--leaf"); })
-      .attr("transform", function(d) { return "translate(" + project(d.x, d.y) + ")"; })
-      .on("mouseover", function() { svg.classed("pause-rotate", true); })
+        .data(root.descendants())
+        .enter().append("g")
+        .attr("class", function(d) { return "node" + (d.children ? " node--internal" : " node--leaf"); })
+        .attr("transform", function(d) { return "translate(" + project(d.x, d.y) + ")"; })
+        .on("mouseover", function() {
+          amplitude.getInstance().logEvent('icdtree.hover');
+          svg.classed("pause-rotate", true);
+        })
       .on("mouseout", function() { svg.classed("pause-rotate", false); });
 
     node.append("circle")
