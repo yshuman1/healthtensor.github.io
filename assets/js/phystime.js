@@ -13,10 +13,11 @@
 
 
   function redraw(data) {
-    /* Hack to remove all elements and start from scratchrather than data-joining */
+    /* Hack to remove all elements and start from scratch rather than data-joining */
     svg.selectAll("g").remove();
-    var width = util.parsePxStr(svg.style("width")),
-        height = util.parsePxStr(svg.style("height")),
+    var bound = svg.node().getBoundingClientRect(),
+        width = Math.floor(bound.width),
+        height = Math.floor(bound.height),
         pieHeight = height - legendHeight,
         radius = Math.min(width, pieHeight) / 2,
         g = svg.append("g").attr("transform", "translate(" + width / 2 + "," + pieHeight / 2 + ")");
