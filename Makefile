@@ -15,3 +15,4 @@ data/build/ICD10_tree.csv: data/build/ICD10cm_desc.csv bin/ancestorize.py
 
 dev-deps:
 	pip install -r dev_requirements.txt
+	bundle install

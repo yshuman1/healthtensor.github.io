@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>HealthTensor</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" description="HealthTensor automates clinician documentation through physician driven, AI products.">
+    <meta name="keywords" content="HealthTensor,healthcare,artificial intelligence,health IT" property="keywords">
+    <meta name="author" content="Eli Ben-Joseph, Nate Wilson, Thomas Moulia">
+
+    <link href='https://fonts.googleapis.com/css?family=Lora:400,400italic|Work+Sans:300,400,500,600' rel='stylesheet' type='text/css'>
+    <link href="/assets/css/toolkit-startup.css" rel="stylesheet">
+    <link href="/assets/css/application-startup.css" rel="stylesheet">
+    <link href="/assets/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="shortcut icon" href="./favicon.ico" >
+
+    <script type="text/javascript" src="/assets/js/jquery.min.js"></script>
+    <script type="text/javascript">
+      (function(e,t){var n=e.amplitude||{_q:[],_iq:{}};var r=t.createElement("script");r.type="text/javascript";
+      r.async=true;r.src="https://d24n15hnbwhuhn.cloudfront.net/libs/amplitude-3.0.1-min.gz.js";
+      r.onload=function(){e.amplitude.runQueuedFunctions()};var i=t.getElementsByTagName("script")[0];
+      i.parentNode.insertBefore(r,i);function s(e,t){e.prototype[t]=function(){this._q.push([t].concat(Array.prototype.slice.call(arguments,0)));
+      return this}}var o=function(){this._q=[];return this};var a=["add","append","clearAll","prepend","set","setOnce","unset"];
+      for(var u=0;u<a.length;u++){s(o,a[u])}n.Identify=o;var c=function(){this._q=[];return this;
+      };var p=["setProductId","setQuantity","setPrice","setRevenueType","setEventProperties"];
+      for(var l=0;l<p.length;l++){s(c,p[l])}n.Revenue=c;var d=["init","logEvent","logRevenue","setUserId","setUserProperties","setOptOut","setVersionName","setDomain","setDeviceId","setGlobalUserProperties","identify","clearUserProperties","setGroup","logRevenueV2","regenerateDeviceId"];
+      function v(e){function t(t){e[t]=function(){e._q.push([t].concat(Array.prototype.slice.call(arguments,0)));
+      }}for(var n=0;n<d.length;n++){t(d[n])}}v(n);n.getInstance=function(e){e=(!e||e.length===0?"$default_instance":e).toLowerCase();
+      if(!n._iq.hasOwnProperty(e)){n._iq[e]={_q:[]};v(n._iq[e])}return n._iq[e]};e.amplitude=n;
+      })(window,document);
+
+      amplitude.getInstance().init("f0fe5c6cede667e0ab5cbe4c29cd274e");
+      amplitude.getInstance().logEvent("visit");
+    </script>
+  </head>
+
+<body>
+
+<div class="stage-shelf stage-shelf-right hidden" id="sidebar">
+  <ul class="nav nav-bordered nav-stacked flex-column">
+    <li class="nav-header">HealthTensor</li>
+    <li class="nav-item">
+      <a class="nav-link nav-link-internal" data-toggle="stage" data-target="#stage" href="#problem">Problem</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link nav-link-internal" data-toggle="stage" data-target="#stage" href="#solution">Solution</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link nav-link-internal" data-toggle="stage" data-target="#stage" href="#contact">Contact</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link nav-link-internal" data-toggle="stage" data-target="#stage" href="/careers/">Careers</a>
+    </li>
+  </ul>
+</div>
+
+<div class="stage" id="stage">
+  {{ content }}
+
+  <div class="block block-inverse app-footer">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-5 mb-5">
+          <ul class="list-unstyled list-spaced">
+            <li class="mb-2"><h6 class="text-uppercase">About</h6></li>
+            <li class="text-muted">
+              At HealthTensor we're working with physicians and health providers
+              to tackle the documentation problem. If you're interested in
+              learning more, contact us anytime at <a href="mailto: hello@healthtensor.com">hello@healthtensor.com</a>.
+            </li>
+          </ul>
+        </div>
+        <div class="col-md-2 offset-md-2 mb-5">
+          <ul class="list-unstyled list-spaced">
+            <li class="mb-2"><h6 class="text-uppercase">Social</h6></li>
+            <li class="text-muted"><a target="_blank" href="https://angel.co/healthtensor"><span class="fa fa-angellist"></span> AngelList</a></li>
+            <li class="text-muted"><a target="_blank" href="https://twitter.com/healthtensor"><span class="fa fa-twitter"></span> Twitter</a></li>
+            <li class="text-muted"><a target="_blank" href="https://github.com/HealthTensor"><span class="fa fa-github-alt"></span> GitHub</a></li>
+            <li class="text-muted"><a target="_blank" href="https://www.linkedin.com/company/healthtensor"><span class="fa fa-linkedin"></span> LinkedIn</a></li>
+          </ul>
+        </div>
+        <div class="col-md-2 mb-5">
+          <ul class="list-unstyled list-spaced">
+            <li class="mb-2"><h6 class="text-uppercase">Legal</h6></li>
+            <li class="text-muted"><a target="_blank" href="http://policies.healthtensor.com/">HIPAA</a></li>
+          </ul>
+        </div>
+      </div>
+      <p class="text-muted">Copyright © 2017, HealthTensor, Inc. &mdash; All Rights Reserved</p>
+    </div>
+  </div>
+
+</div>
+
+<script src="/assets/js/jquery.min.js"></script>
+<script src="/assets/js/tether.min.js"></script>
+<script src="/assets/js/toolkit.js"></script>
+<script src="/assets/js/application.js"></script>
+
+</body>
+</html>

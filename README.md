@@ -1,13 +1,22 @@
 # HealthTensor's Website
 
+The site is built using [jekyll](https://jekyllrb.com/).
+
 ## Testing Locally
 
-To test locally, host a static file webserver out of this repo's root directory.
-
-For example:
+First esnure you have [pip](https://pypi.python.org/pypi/pip) and
+[bundler](https://bundler.io) installed. Then, use those to pull
+down the rest of the dependencies by running:
 
 ```
-python3 -m http.server
+lang=shell
+make dev-deps
 ```
 
-... and navigate to [http://localhost:8000](http://localhost:8000).
+Build the site, watch for changes, and serve it from a webserver:
+
+```
+jekyll serve --watch
+```
+
+... and navigate to [http://localhost:4000](http://localhost:4000).

@@ -1,0 +1,30 @@
+---
+layout: career
+title: Careers
+subtitle: Build intelligence into the doctor's note with a team of software engineers and clinicians.
+btn_text: Open positions
+permalink: /careers/
+---
+
+<div class="row app-align-center">
+  <!-- <div class="col-12">
+        <h3>We're a Santa Monica digital health startup.</h3>
+        <p>
+
+        </p>
+        </div>
+      -->
+  <div class="col-12 careers-positions">
+    <h1>Open Positions</h1>
+    {% for post in site.posts %}
+      <br>
+      <h3>{{ post.excerpt_title }}</h3>
+      <p>
+        {{ post.subtitle }}
+      </p>
+      <p>
+        <a href="{{ post.url }}">Learn More</a>
+      </p>
+    {% endfor %}
+  </div>
+</div>

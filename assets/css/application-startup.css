@@ -1,9 +1,13 @@
 .stage {
-    overflow-x: hidden;
+  overflow-x: hidden;
 }
 
-.text-stroke {
-    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+.home-header .text-stroke {
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.careers-header .text-stroke {
+  color: black;
 }
 
 /* navbar */
@@ -13,6 +17,22 @@
   position: absolute;
 }
 
+.careers-header {
+  height: 100vh;
+}
+
+.careers-header .app-navbar .nav-link {
+  color: black;
+}
+
+.careers-header .app-navbar .nav-link:hover {
+  color: #6f0000;
+}
+
+.careers-container p,
+.careers-container li {
+  font-size: 1.28em;
+}
 
 /* header block */
 .app-graph {

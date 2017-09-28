@@ -1,0 +1,8 @@
+url: http://www.healthtensor.com
+title: HealthTensor
+subtitle: Automating clinical documentation.
+exclude:
+  - bin
+  - dev_requirements.txt
+  - Makefile
+  - README.md
