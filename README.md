@@ -4,7 +4,7 @@ The site is built using [jekyll](https://jekyllrb.com/).
 
 ## Testing Locally
 
-First esnure you have [pip](https://pypi.python.org/pypi/pip) and
+First ensure you have [pip](https://pypi.python.org/pypi/pip) and
 [bundler](https://bundler.io) installed. Then, use those to pull
 down the rest of the dependencies by running:
 
